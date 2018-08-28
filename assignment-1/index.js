@@ -83,7 +83,7 @@ async function saveHTML(pageID) {
   await writeFile(getFilePath(pageID), html);
 
   // Log a happy message
-  console.log(chalk`{green Success!} File {bold ${`${pageID}.html`}} saved! 🎉`);
+  console.log(chalk`{green Success!} File {bold ${`${pageID}.txt`}} saved! 🎉`);
 }
 
 /**
