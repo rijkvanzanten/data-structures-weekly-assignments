@@ -1,3 +1,7 @@
+# Assignment result folders
+assignment-1/data/*.html
+assignment-1/logs/*.txt
+
 # Logs
 logs
 *.log
