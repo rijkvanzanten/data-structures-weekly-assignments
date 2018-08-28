@@ -2,6 +2,8 @@
 assignment-1/data/*.txt
 assignment-1/logs/*.txt
 
+.DS_Store
+
 # Logs
 logs
 *.log
