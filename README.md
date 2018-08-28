@@ -12,7 +12,7 @@ If you like what you see and like to know what problems these little projects tr
 
 ### Assignment 1
 
-Fetch 10 (given) URLs and save the HTML result to file. ([Result](https://github.com/rijkvanzanten/data-structures/tree/master/assignment-1), [More Info](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md))
+Fetch 10 (given) URLs and save the HTML result to file. [[Result](https://github.com/rijkvanzanten/data-structures/tree/master/assignment-1), [More Info](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md)]
 
 ## License
 
