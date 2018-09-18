@@ -35,9 +35,9 @@ async function process(inputPath, outputPath) {
 
   const data = [...rows].map(processRow);
 
-  console.log(JSON.stringify(data, null, 4));
+  // console.log(JSON.stringify(data, null, 4));
 
-  // await writeFile(outputPath, JSON.stringify(data, null, 4));
+  await writeFile(outputPath, JSON.stringify(data, null, 4));
 }
 
 const inputPath = path.join(__dirname, "input.html");
