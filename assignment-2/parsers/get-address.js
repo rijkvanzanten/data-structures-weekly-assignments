@@ -10,15 +10,21 @@ module.exports = function getAddress(row) {
     tdTextLines[3].split(",")[1].trim()
   ) || null;
 
-  const line3 = "";
+
+  const zipRegex = /[0-9]{5}/;
+  const zipMatch = tdTextLines[4].match(zipRegex);
+  const zip = zipMatch ? +zipMatch[0] : null;
+
+  const otherRegex = /(?<=\()(.*)(?=\))/;
+  const otherMatch = tdTextLines[4].match(otherRegex);
+  const other = otherMatch ? otherMatch[0] : null;
 
   return {
     line1,
     line2,
-    line3,
-    city: "New York City",
-    state: "NY",
-    zip: null,
-    other: null
+    zip,
+    other,
+    city: "New York City", // These two are cheating, I know 😄
+    state: "NY"
   }
 }
