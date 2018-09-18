@@ -6,6 +6,7 @@ const { JSDOM } = require("jsdom");
 const getTitle = require("./parsers/get-title");
 const getBuilding = require("./parsers/get-building");
 const getWheelchair = require("./parsers/get-wheelchair");
+const getAddress = require("./parsers/get-address");
 
 const readFile = promisify(fs.readFile);
 const writeFile = promisify(fs.writeFile);
@@ -21,7 +22,8 @@ function processRow(row, i) {
   const info = {
     building: getBuilding(row),
     title: getTitle(row),
-    wheelchair: getWheelchair(row)
+    wheelchair: getWheelchair(row),
+    address: getAddress(row)
   };
 
   return info;
