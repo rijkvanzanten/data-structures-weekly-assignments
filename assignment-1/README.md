@@ -2,6 +2,35 @@
 
 > See [the assignment details](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md)
 
+## Installation & Usage
+
+**Requirements**  
+* Node 7.6 or higher
+
+### 1. Clone this repo
+
+```bash
+$ git clone https://github.com/rijkvanzanten/data-structures.git
+```
+
+### 2. Go to the `assignment-1` folder
+
+```bash
+$ cd assignment-1
+```
+
+### 3. Install the NPM dependencies
+
+```bash
+$ npm install
+```
+
+### 4. Run the `index.js` file
+
+```bash
+$ node index.js
+```
+
 ## Problem to solve
 
 Retrieve the HTML content of 10 (given) pages and save the content to text files.
