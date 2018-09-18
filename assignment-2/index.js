@@ -4,6 +4,7 @@ const path = require("path");
 const { JSDOM } = require("jsdom");
 
 const getTitle = require("./parsers/get-title");
+const getDetails = require("./parsers/get-details");
 const getBuilding = require("./parsers/get-building");
 const getWheelchair = require("./parsers/get-wheelchair");
 const getAddress = require("./parsers/get-address");
@@ -20,8 +21,9 @@ function getDocument(html) {
 
 function processRow(row, i) {
   const info = {
-    building: getBuilding(row),
     title: getTitle(row),
+    details: getDetails(row),
+    building: getBuilding(row),
     wheelchair: getWheelchair(row),
     address: getAddress(row)
   };
