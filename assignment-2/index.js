@@ -62,7 +62,7 @@ function processRow(rowElement) {
  * @param  {String} inputPath  Path of the HTML file to read
  * @param  {String} outputPath Where to save the JSON file
  */
-async function process(inputPath, outputPath) {
+async function processFile(inputPath, outputPath) {
   const html = await readFile(inputPath);
   const document = getDocument(html);
 
@@ -90,12 +90,30 @@ async function process(inputPath, outputPath) {
   console.log("✨ All done!");
 }
 
-const inputPath = path.join(__dirname, "input.html");
-const outputPath = path.join(__dirname, "output.json");
+let inputPath = path.join(__dirname, "input.html");
+let outputPath = path.join(__dirname, "output.json");
+
+/**
+ * This allows the user to override the input file by running the program
+ * with an input file:
+ * node index.js input.html
+ */
+if (process.argv.length > 2) {
+  inputPath = path.join(__dirname, process.argv[2]);
+}
+
+/**
+ * This allows the user to also override the output location file by running the program
+ * with two arguments:
+ * node index.js input.html output.json
+ */
+if (process.argv.length > 3) {
+  outputPath = path.join(__dirname, process.argv[3]);
+}
 
 /**
  * Since `process` is an async function, it technically returns a Promise.
  * Therefore, we can catch all the errors that might occur inside of the function
  * into a single error handler. Nice!
  */
-process(inputPath, outputPath).catch(err => console.error(`❌ Oh no... \n\n${err}`));
+processFile(inputPath, outputPath).catch(err => console.error(`❌ Oh no... \n\n${err}`));

@@ -31,6 +31,13 @@ $ npm install
 $ node index.js
 ```
 
+**Bonus**:  
+You can also run the program with arguments to override the default input / output file paths. This allows you to use the same code for all the downloaded files from assignment-1:
+
+```bash
+$ node index.js ../assignment-1/data/m09.html output-09.json
+```
+
 ## Problem to solve
 
 Read one of the files created by [assignment-1](../assignment-1/) (in my case file `m08`) and convert the HTML into a usable format.
@@ -55,6 +62,3 @@ I'd never really had the need to rely so much on RegEx statements. This assignme
 
 I also re-used and strengthened what I learned from the first assignment in terms of documentation and using async/await.
 
-## To-Do
-
-I think it could be very nice to turn this script into a [CLI Application](https://timber.io/blog/creating-a-real-world-cli-app-with-node/) that takes in the input and output file path so this script can be used for any of the HTML files (instead of being hardcoded for the `input.html` file). 
