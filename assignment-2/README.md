@@ -2,6 +2,9 @@
 
 > See [the assignment details](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_02.md)
 
+* [**Script**](https://github.com/rijkvanzanten/data-structures/blob/master/assignment-2/index.js)
+* [**Result**](https://github.com/rijkvanzanten/data-structures/blob/master/assignment-2/output.json)
+
 ## Installation & Usage
 
 **Requirements**  
