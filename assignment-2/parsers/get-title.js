@@ -1,12 +1,23 @@
+/**
+ * format-title is a little package I wrote that will convert any "ugly" string
+ * to a Title Case equivalent.
+ * See https://www.npmjs.com/package/@directus/format-title
+ */
 const formatTitle = require("@directus/format-title");
 
+/**
+ * Convert a row element into the title
+ * @param  {HTMLElement} row The <tr> element to extract the data from
+ * @return {String}          The event title
+ */
 module.exports = function getTitle(row) {
   const titleEl = row.querySelector("td:first-of-type b");
 
   if (!titleEl) return null;
 
   /**
-   * Titles always contain a dash (-) character. Even if there's nothing after it:
+   * Titles always seem to contain a dash (-) character. Even if there's nothing
+   * after it:
    *
    * TUESDAY BIG BOOK STUDY - Tuesday Big Book Study
    * ST. NICHOLAS - St. Nicholas
