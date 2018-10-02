@@ -1,9 +1,8 @@
-# Assignment 3
+# Assignment 4
 
-> See [the assignment details](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_03.md)
+> See [the assignment details](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04.md)
 
-* [**Script**](https://github.com/rijkvanzanten/data-structures/blob/master/assignment-3/index.js)
-* [**Result**](https://github.com/rijkvanzanten/data-structures/blob/master/assignment-3/output.json)
+* [**Script**](https://github.com/rijkvanzanten/data-structures/blob/master/assignment-4/index.js)
 
 ## Installation & Usage
 
@@ -16,10 +15,10 @@
 $ git clone https://github.com/rijkvanzanten/data-structures.git
 ```
 
-### 2. Go to the `assignment-3` folder
+### 2. Go to the `assignment-4` folder
 
 ```bash
-$ cd assignment-3
+$ cd assignment-4
 ```
 
 ### 3. Install the NPM dependencies
@@ -30,7 +29,7 @@ $ npm install
 
 ### 4. Add your Texas A&M GeoServices API Key
 
-You can either add a `.env` file to the root of the `assignment-3` folder with the following contents:
+<!-- You can either add a `.env` file to the root of the `assignment-4` folder with the following contents:
 
 ```
 TAMU_KEY=<your-key>
@@ -40,7 +39,7 @@ or export it on the CLI directly:
 
 ```bash
 $ export TAMU_KEY=<your-key>
-```
+``` -->
 
 ### 5. Run the `index.js` file
 
