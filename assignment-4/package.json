@@ -9,5 +9,9 @@
   },
   "keywords": [],
   "author": "Rijk van Zanten <rijkvanzanten@me.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "pg": "^7.5.0"
+  }
 }
