@@ -59,8 +59,24 @@ const queries = [
   "DROP TABLE IF EXISTS zones CASCADE",
 
   `CREATE TABLE zones (
-    id CHAR(2) PRIMARY KEY,
-    name VARCHAR(50) NOT NULL
+    id CHAR(2) PRIMARY KEY
+  )`,
+
+
+  "DROP TABLE IF EXISTS neighborhoods CASCADE",
+
+  `CREATE TABLE neighborhoods (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    zone_id CHAR(2) NOT NULL REFERENCES zones(id)
+  )`,
+
+
+  "DROP TABLE IF EXISTS zipcodes CASCADE",
+
+  `CREATE TABLE zipcodes (
+    id VARCHAR(10) PRIMARY KEY,
+    neighborhood_id INTEGER NOT NULL REFERENCES neighborhoods(id)
   )`
 ];
 
