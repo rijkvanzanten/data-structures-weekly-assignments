@@ -52,6 +52,7 @@ const queries = [
     state CHAR(2) NOT NULL,
     latitude DOUBLE PRECISION NOT NULL,
     longitude DOUBLE PRECISION NOT NULL,
+    wheelchair_accessible BOOLEAN,
     zone_id CHAR(2) NOT NULL REFERENCES zones(id)
   )`,
 
