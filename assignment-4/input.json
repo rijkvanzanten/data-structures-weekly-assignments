@@ -564,7 +564,7 @@
                 "day": "tue",
                 "startTime": "8:00 PM",
                 "endTime": "9:00 PM",
-                "type": null,
+                "type": "b",
                 "specialInterest": null
             }
         ]
