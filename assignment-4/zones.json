@@ -72,14 +72,13 @@
       {
         "name": "Chelsea",
         "zipcodes": [
-          "10011"
+          "10001"
         ]
       },
       {
         "name": "East Village",
         "zipcodes": [
-          "10003",
-          "10009"
+          "10003"
         ]
       },
       {
@@ -115,7 +114,6 @@
       {
         "name": "Midtown West Side",
         "zipcodes": [
-          "10001",
           "10018"
         ]
       },
@@ -151,7 +149,7 @@
     ]
   },
   {
-    "zone": "06",
+    "code": "06",
     "neighborhoods": [
       {
         "name": "Upper West Side",
@@ -164,7 +162,7 @@
     ]
   },
   {
-    "zone": "07",
+    "code": "07",
     "neighborhoods": [
       {
         "name": "Roosevelt Island",
@@ -175,8 +173,7 @@
       {
         "name": "Upper East Side",
         "zipcodes": [
-          "10021",
-          "10018"
+          "10021"
         ]
       },
       {
@@ -188,7 +185,7 @@
     ]
   },
   {
-    "zone": "08",
+    "code": "08",
     "neighborhoods": [
       {
         "name": "Morningside Heights",
@@ -209,7 +206,7 @@
     ]
   },
   {
-    "zone": "09",
+    "code": "09",
     "neighborhoods": [
       {
         "name": "East Harlem",
@@ -227,7 +224,7 @@
     ]
   },
   {
-    "zone": "10",
+    "code": "10",
     "neighborhoods": [
       {
         "name": "Washington Heights",

@@ -75,7 +75,7 @@ const queries = [
   "DROP TABLE IF EXISTS zipcodes CASCADE",
 
   `CREATE TABLE zipcodes (
-    id VARCHAR(10) PRIMARY KEY,
+    zipcode VARCHAR(10) PRIMARY KEY,
     neighborhood_id INTEGER NOT NULL REFERENCES neighborhoods(id)
   )`
 ];
