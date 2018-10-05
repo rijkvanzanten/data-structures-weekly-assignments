@@ -1,11 +1,12 @@
 const { Client } = require("pg");
 
+// Read the .env file and add it's values to the env variables
 require("dotenv").config();
 
 const { user, host, database, password, port } = process.env;
 
+// Connect to the DB
 const client = new Client({ user, host, database, password, port });
-
 client.connect();
 
 const queries = [
@@ -81,7 +82,8 @@ const queries = [
   )`
 ];
 
+// Wait for all the queries to be executed before closing the DB connection
 Promise.all(queries.map(query => client.query(query)))
   .then(() => client.end())
-  .then(() => console.log("Done!"))
+  .then(() => console.log("Done installing!"))
   .catch(console.error);
