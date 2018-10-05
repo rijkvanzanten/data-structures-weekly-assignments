@@ -34,6 +34,16 @@ async function insert() {
     return await Promise.all(zipcodes.map(zipcode => pool.query(`INSERT INTO zipcodes (zipcode, neighborhood_id) VALUES ('${zipcode}', ${neighborhood_id})`)));
   }));
 
+  await Promise.all(records.map(({ address }) => {
+    const { line1, line2, zip, city, state, coordinates } = address;
+    return pool.query(`
+      INSERT INTO locations (line1, line2, zip, city, state, latitude, longitude, zone_id)
+      VALUES ($1, $2, $3, $4, $5, $6, $7, $8)
+      ON CONFLICT ON CONSTRAINT locations_line1_key 
+      DO NOTHING;
+    `, [line1, line2, zip, city, state, coordinates.lat, coordinates.lon, "08"]);
+  }));
+
   pool.end();
   process.exit(0);
 }

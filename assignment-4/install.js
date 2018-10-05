@@ -44,8 +44,8 @@ const queries = [
 
   `CREATE TABLE locations (
     id SERIAL PRIMARY KEY,
-    name VARCHAR(100) NOT NULL,
-    line1 VARCHAR(150) NOT NULL,
+    name VARCHAR(100) NULL,
+    line1 VARCHAR(150) NOT NULL UNIQUE,
     line2 VARCHAR(100) NULL,
     zip VARCHAR(10) NOT NULL,
     city VARCHAR(100) NOT NULL,
