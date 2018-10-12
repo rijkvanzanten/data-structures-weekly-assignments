@@ -92,7 +92,10 @@ series(
   // Convert each post to a function that saves the post to the DB
   posts.map(post => cb => {
     db.put({ TableName: "deardiary", Item: post }, err => {
-      if (err) console.log(err);
+      if (err) {
+        console.log(err);
+        cb(err);
+      }
     });
 
     // Only save one post per 2 seconds to prevent having to pay Amazon
@@ -102,8 +105,13 @@ series(
     }, 2000);
   }),
 
-  () => {
+  err => {
     bar.stop();
+
+    if (err) {
+      return console.log(kleur.red("Something went wrong..."));
+    }
+    
     console.log(`
 
 ${kleur.green("Successfully")} saved ${kleur.blue(fileNames.length)} posts to ${kleur.yellow("Amazon DynamoDB")} 🎉
