@@ -14,12 +14,12 @@ My data structure can be described visually as follows:
 
 ```
 slug              (S, PK)
-datetime          (S, SORT)
+datetime          (S)
 title             (S)
 content           (M)
   html            (S)
   raw             (S)
-keywords          (SS)
+keywords          (SS, SORT)
 [featured_image]  (S)
 ```
 
