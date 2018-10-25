@@ -61,7 +61,7 @@ function processMeeting(meeting, i) {
         console.log(`Meeting ${i} failed`);
       });
 
-    setTimeout(() => cb(null), 2000);
+    setTimeout(() => cb(null), 250);
   }
 }
 

@@ -19,6 +19,13 @@
         "endTime": "8:00 AM",
         "type": "od",
         "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "7:00 AM",
+        "endTime": "8:00 AM",
+        "type": "b",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -42,6 +49,27 @@
         "startTime": "12:15 PM",
         "endTime": "1:15 PM",
         "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "bb",
         "specialInterest": null
       }
     ],
@@ -114,7 +142,35 @@
         "startTime": "12:15 PM",
         "endTime": "1:15 PM",
         "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
         "specialInterest": "Living Sober"
+      },
+      {
+        "day": "thu",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "s",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -139,6 +195,90 @@
         "endTime": "7:30 AM",
         "type": "c",
         "specialInterest": "Topic"
+      },
+      {
+        "day": "tue",
+        "startTime": "6:30 AM",
+        "endTime": "7:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "6:30 AM",
+        "endTime": "7:30 AM",
+        "type": "c",
+        "specialInterest": "Topic"
+      },
+      {
+        "day": "thu",
+        "startTime": "6:30 AM",
+        "endTime": "7:30 AM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "6:30 AM",
+        "endTime": "7:30 AM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "7:45 AM",
+        "endTime": "8:45 AM",
+        "type": "od",
+        "specialInterest": "Round Robin Meeting Format"
+      },
+      {
+        "day": "sat",
+        "startTime": "7:45 AM",
+        "endTime": "8:45 AM",
+        "type": "od",
+        "specialInterest": "Round Robin Meeting Format"
+      },
+      {
+        "day": "fri",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -210,7 +350,35 @@
         "startTime": "1:15 PM",
         "endTime": "2:15 PM",
         "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "c",
         "specialInterest": "Promises"
+      },
+      {
+        "day": "thu",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "bb",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -330,7 +498,35 @@
         "startTime": "12:15 PM",
         "endTime": "1:15 PM",
         "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "s",
         "specialInterest": "Meditation"
+      },
+      {
+        "day": "wed",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "b",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -379,6 +575,27 @@
         "endTime": "12:00 PM",
         "type": "c",
         "specialInterest": "Meditation"
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -403,6 +620,27 @@
         "endTime": "8:30 PM",
         "type": "s",
         "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "b",
+        "specialInterest": null
       }
     ],
     "zone": "01"
@@ -426,6 +664,13 @@
         "startTime": "7:45 PM",
         "endTime": "8:45 PM",
         "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
         "specialInterest": null
       }
     ],

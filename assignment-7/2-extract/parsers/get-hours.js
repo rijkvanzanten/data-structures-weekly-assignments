@@ -5,6 +5,8 @@
  */
 const formatTitle = require("@directus/format-title");
 
+const htmlMin = require("html-minifier").minify;
+
 const getDocument = require("../get-document");
 
 /**
@@ -15,13 +17,8 @@ const getDocument = require("../get-document");
 module.exports = function getHours(row) {
   const td = row.querySelector("td:nth-of-type(2)");
 
-  return td.innerHTML
-    /**
-     * Every meeting "list item" is separated by two <br> tags and a bunch of
-     * spaces. I still feel dirty for having to extract it this way, but hey,
-     * it works!
-     */
-    .split("<br>\n                      <br>")
+  return htmlMin(td.innerHTML, { collapseWhitespace: true })
+    .split("<br><br>")
     .map(html => html.trim())
 
     /**

@@ -67,6 +67,48 @@
         "endTime": "6:00 PM",
         "type": "od",
         "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": null
       }
     ],
     "zone": "09"
@@ -90,6 +132,13 @@
         "startTime": "1:00 PM",
         "endTime": "2:00 PM",
         "type": "t",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "b",
         "specialInterest": null
       }
     ],

@@ -18,7 +18,49 @@
         "startTime": "4:00 PM",
         "endTime": "5:00 PM",
         "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
         "specialInterest": "Living Sober"
+      },
+      {
+        "day": "wed",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -42,7 +84,49 @@
         "startTime": "9:15 PM",
         "endTime": "10:15 PM",
         "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "c",
         "specialInterest": "As Bill Sees It"
+      },
+      {
+        "day": "thu",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "od",
+        "specialInterest": "Beginners Workshop"
+      },
+      {
+        "day": "tue",
+        "startTime": "9:15 PM",
+        "endTime": "10:30 PM",
+        "type": "s",
+        "specialInterest": "Meditation"
       }
     ],
     "zone": "04"
@@ -66,7 +150,49 @@
         "startTime": "8:00 AM",
         "endTime": "9:00 AM",
         "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "c",
         "specialInterest": "Daily Reflections"
+      },
+      {
+        "day": "fri",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "t",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "od",
+        "specialInterest": "Living Sober"
+      },
+      {
+        "day": "sun",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "bb",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -138,7 +264,189 @@
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "type": "c",
         "specialInterest": "Women"
+      },
+      {
+        "day": "mon",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -159,6 +467,34 @@
     "hours": [
       {
         "day": "mon",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
         "startTime": "7:30 AM",
         "endTime": "8:30 AM",
         "type": "c",
@@ -259,6 +595,41 @@
         "endTime": "2:30 PM",
         "type": "b",
         "specialInterest": "Living Sober"
+      },
+      {
+        "day": "tue",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      },
+      {
+        "day": "wed",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      },
+      {
+        "day": "thu",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      },
+      {
+        "day": "fri",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      },
+      {
+        "day": "sat",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
       }
     ],
     "zone": "04"
@@ -279,6 +650,48 @@
     "hours": [
       {
         "day": "sun",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
         "startTime": "2:45 PM",
         "endTime": "3:45 PM",
         "type": "b",
@@ -329,8 +742,43 @@
         "day": "fri",
         "startTime": "4:30 PM",
         "endTime": "5:30 AM",
-        "type": "bb",
+        "type": null,
         "specialInterest": "Living Sober"
+      },
+      {
+        "day": "tue",
+        "startTime": "4:30 PM",
+        "endTime": "4:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": null,
+        "specialInterest": "Meditation"
+      },
+      {
+        "day": "thu",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": null,
+        "specialInterest": "As Bill Sees It"
+      },
+      {
+        "day": "sat",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": null,
+        "specialInterest": "Came to Believe"
       }
     ],
     "zone": "04"
@@ -351,6 +799,20 @@
     "hours": [
       {
         "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "type": "c",
@@ -379,6 +841,13 @@
         "endTime": "5:45 PM",
         "type": "b",
         "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "od",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -402,6 +871,13 @@
         "startTime": "6:00 PM",
         "endTime": "7:00 PM",
         "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "s",
         "specialInterest": null
       }
     ],
@@ -475,6 +951,69 @@
         "endTime": "1:00 PM",
         "type": "b",
         "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -497,7 +1036,70 @@
         "day": "s",
         "startTime": "12:00 AM",
         "endTime": "12:00 AM",
+        "type": null,
+        "specialInterest": null
+      },
+      {
+        "day": "s",
+        "startTime": "12:00 AM",
+        "endTime": "12:00 AM",
+        "type": null,
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
         "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
         "specialInterest": null
       }
     ],
@@ -519,6 +1121,48 @@
     "hours": [
       {
         "day": "sat",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sun",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
         "startTime": "10:30 PM",
         "endTime": "11:30 PM",
         "type": "c",
@@ -571,6 +1215,20 @@
         "endTime": "9:00 PM",
         "type": "s",
         "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -594,6 +1252,13 @@
         "startTime": "7:30 PM",
         "endTime": "8:30 PM",
         "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
         "specialInterest": null
       }
     ],
@@ -666,7 +1331,35 @@
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
         "specialInterest": "Promises"
+      },
+      {
+        "day": "fri",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "bb",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -714,7 +1407,49 @@
         "startTime": "12:00 AM",
         "endTime": "1:00 AM",
         "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "c",
         "specialInterest": "Living Sober"
+      },
+      {
+        "day": "thu",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "o",
+        "specialInterest": "Eleventh Step"
       }
     ],
     "zone": "04"
@@ -763,6 +1498,13 @@
         "endTime": "7:00 AM",
         "type": "b",
         "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "6:00 AM",
+        "endTime": "7:00 AM",
+        "type": "s",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -786,7 +1528,154 @@
         "startTime": "10:00 AM",
         "endTime": "11:00 AM",
         "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
         "specialInterest": "Steps 1 2 3"
+      },
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": "Men"
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      },
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "od",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -807,6 +1696,48 @@
     "hours": [
       {
         "day": "sun",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
         "startTime": "10:30 AM",
         "endTime": "11:30 AM",
         "type": "c",
@@ -834,7 +1765,42 @@
         "startTime": "6:15 PM",
         "endTime": "7:15 PM",
         "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "7:30 PM",
+        "endTime": "8:45 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "mon",
+        "startTime": "7:45 PM",
+        "endTime": "8:45 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "9:00 PM",
+        "endTime": "10:00 PM",
+        "type": "b",
         "specialInterest": "First Step Workshop"
+      },
+      {
+        "day": "mon",
+        "startTime": "9:00 PM",
+        "endTime": "10:00 PM",
+        "type": "o",
+        "specialInterest": null
       }
     ],
     "zone": "04"
@@ -858,6 +1824,20 @@
         "startTime": "6:00 PM",
         "endTime": "7:30 PM",
         "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "6:00 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
+        "specialInterest": null
+      },
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
         "specialInterest": null
       }
     ],
@@ -907,6 +1887,34 @@
         "endTime": "8:00 PM",
         "type": "c",
         "specialInterest": "Promises"
+      },
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "Living Sober"
       }
     ],
     "zone": "04"
@@ -979,6 +1987,146 @@
         "endTime": "6:30 PM",
         "type": "c",
         "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "wed",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "sun",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "thu",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "mon",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "fri",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "tue",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "sat",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "b",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "wed",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "sun",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "mon",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "fri",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "tue",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "thu",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": "H.i.v Positive"
+      },
+      {
+        "day": "tue",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "bb",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "sat",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "sun",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "bb",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      },
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
       }
     ],
     "zone": "04"
@@ -1000,6 +2148,34 @@
       {
         "day": "mon",
         "startTime": "12:30 AM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      },
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
         "endTime": "1:30 PM",
         "type": "c",
         "specialInterest": null
@@ -1095,6 +2271,13 @@
     "hours": [
       {
         "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      },
+      {
+        "day": "thu",
         "startTime": "12:00 PM",
         "endTime": "1:00 PM",
         "type": "c",
