@@ -1,0 +1,1274 @@
+[
+  {
+    "title": "4 The Grace",
+    "details": null,
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "bb",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "42nd at 9:00pm",
+    "details": "Sat=A.A. Literature",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": "Room #404",
+      "zip": 10036,
+      "other": "Betw 8th & 9th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "bb",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "A New Freedom",
+    "details": "Sun=11th Step, Wed=Gratitude, Thu=Daily Reflections",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. 8th & 9th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "od",
+        "specialInterest": "Daily Reflections"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Abingdon Square In Chelsea",
+    "details": null,
+    "building": "S.A.G.E.",
+    "wheelchair": true,
+    "address": {
+      "line1": "305 7th Avenue",
+      "line2": "6th Floor",
+      "zip": 10001,
+      "other": "Betw. 27th & 28th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Adventures in Sobriety",
+    "details": "Gay & Lesbian Focus.  All are welcome.",
+    "building": "Saint Thomas Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "1 West 53rd Street",
+      "line2": "3rd Floor",
+      "zip": 10019,
+      "other": "Betw 5th & 6th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Alanon House   (aa Meetings Only)",
+    "details": "Sun.2pm=Women's Meeting",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "@ Corner of 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Amazing Grace",
+    "details": "T Last Thursday All meetings are non-smoking.",
+    "building": "St. Mary the Virgin Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "133 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Annex    (:I)",
+    "details": null,
+    "building": "Hudson Guild",
+    "wheelchair": true,
+    "address": {
+      "line1": "441 West 26th Street",
+      "line2": "2nd Fl.",
+      "zip": 10001,
+      "other": "Betw. 9th & 10th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Annex    (:II)",
+    "details": "Gay & Lesbian focus.  All are welcome.",
+    "building": "GMHC",
+    "wheelchair": true,
+    "address": {
+      "line1": "446 West 33rd Street",
+      "line2": "6th Floor",
+      "zip": 10001,
+      "other": "@ 10th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Artists in Recovery",
+    "details": "All are welcome.",
+    "building": "46th Street Clubhouse",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "c",
+        "specialInterest": "Special Purpose Groups"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Beginners",
+    "details": "Readings from Living Sober",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Beginners",
+    "details": null,
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "2:45 PM",
+        "endTime": "3:45 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Between Shows",
+    "details": "Non-Smoking Meeting.",
+    "building": "The Actor's Temple",
+    "wheelchair": false,
+    "address": {
+      "line1": "339 West 47th Street",
+      "line2": null,
+      "zip": 10036,
+      "other": "Betw 8th & 9th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Blueprint for Living",
+    "details": null,
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd St Rm 306",
+      "line2": null,
+      "zip": 10036,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 AM",
+        "type": "bb",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Bookshop At Noon",
+    "details": "No Meeting on Legal Holidays All meetings are non-smoking.",
+    "building": "St. Francis of Assisi Education Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "139 West 31st Street",
+      "line2": "3rd Floor",
+      "zip": 10001,
+      "other": "Betw. 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Clean And Dry",
+    "details": null,
+    "building": "Trinity Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "422 West 57th Street",
+      "line2": "Upstairs",
+      "zip": 10019,
+      "other": "Betw 9th & 10th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "5:45 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Commuters Special",
+    "details": null,
+    "building": "St. John's Hall",
+    "wheelchair": false,
+    "address": {
+      "line1": "211 West 30th Street",
+      "line2": null,
+      "zip": 10001,
+      "other": "Betw 7th & 8th Avenues, Basement",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "D.i.v.a.  (divinely Inspired Vivacious Alcoholics)",
+    "details": "Women's Meeting",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Fifth Avenue Step",
+    "details": null,
+    "building": "St. Thomas Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "1 West 53rd Street",
+      "line2": "3rd Floor",
+      "zip": 10019,
+      "other": "Betw. 5th & 6th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Fireside",
+    "details": "Tue.12:30 = T 1st Tuesday Beginners upstairs; other meetings in the chapel",
+    "building": "Trinity Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "422 West 57th Street",
+      "line2": null,
+      "zip": 10019,
+      "other": "Betw 9th & 10th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Foglifters-Fifth Avenue",
+    "details": "Monday thru Thursday Beginners Meeting 5th floor Monday thru Thursday Open Discussion 3rd floor Wednesday Step Meeting",
+    "building": "Fifth Av Presbyterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "7 West 55th Street",
+      "line2": "5th Floor",
+      "zip": 10019,
+      "other": "@ 5th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "s",
+        "startTime": "12:00 AM",
+        "endTime": "12:00 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Forty-Five Solutions",
+    "details": null,
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": null,
+      "zip": 10036,
+      "other": "Betw Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:30 PM",
+        "endTime": "11:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Green Room",
+    "details": "Focus is on those in the entertainment industry.  All are welcome. As Bill Sees It",
+    "building": "The Actors Fund of America",
+    "wheelchair": true,
+    "address": {
+      "line1": "729 7th Avenue",
+      "line2": "10th Floor small conference room",
+      "zip": 10019,
+      "other": "@ 49th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Special Purpose Groups"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Grupo Buena Voluntad",
+    "details": "All meetings are Open Discussion format.",
+    "building": "Apartment Building",
+    "wheelchair": false,
+    "address": {
+      "line1": "538 West 47th Street",
+      "line2": null,
+      "zip": 10036,
+      "other": "Betw 10th & 11th Avenuess",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Hell's Kitchen",
+    "details": "Anniv. 1st Monday, T 2nd & S Last Thursday, NOTE: On legal holidays, the meeting meets on the 1st Floor (Ask for the room at the reception desk)",
+    "building": "Mount Sinai - Roosevelt Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "1000 Tenth Avenue",
+      "line2": "8th Floor (Room #8G49",
+      "zip": 10019,
+      "other": "Betw 58th & 59th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Henry Hudson",
+    "details": null,
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "@ Corner of 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Joe and Charlie CD Meeting",
+    "details": "Big Book Workshop",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Learning To Live",
+    "details": "All meetings are non-smoking.",
+    "building": "Upright Citizens Brigade Theatre",
+    "wheelchair": false,
+    "address": {
+      "line1": "307 West 26th Street",
+      "line2": null,
+      "zip": 10001,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "s",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Lucky Ones",
+    "details": "Room LL2",
+    "building": "St. Paul's Episcopal Parish House",
+    "wheelchair": true,
+    "address": {
+      "line1": "405 West 59th Street",
+      "line2": null,
+      "zip": 10019,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Midnight in Midtown",
+    "details": "T Last Sunday, Mon=Came To Believe, Last Sat. Open Anniversary Last Sat. meets at 252 West 46th Street",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": null,
+      "zip": 10036,
+      "other": "Betw 8th & 9th Avenues - Room 404",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:00 AM",
+        "endTime": "1:00 AM",
+        "type": "s",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Miracle",
+    "details": "Open on Holidays.",
+    "building": "Trinity Presbyterian Church ",
+    "wheelchair": true,
+    "address": {
+      "line1": "422 W. 57th St.",
+      "line2": null,
+      "zip": 10019,
+      "other": "Betw. 9th and 10th Aves.",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Morning Call",
+    "details": null,
+    "building": "St. Mary the Virgin Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "133 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:00 AM",
+        "endTime": "7:00 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "New But West",
+    "details": "Tue.Step=#'s 4-7, Wed.5:30=Grapevine Topic, Thu.12:30 Step=#'s 4-7 Thu.5:30=T last Thu.,Fri.BB=T last Fri. Fri.Step=#'s 8-12",
+    "building": "St. Mary the Virgin Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "133 West 46th Street",
+      "line2": "2nd & 3rd Floor",
+      "zip": 10036,
+      "other": "Betw. 6th & 7th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "c",
+        "specialInterest": "Steps 1 2 3"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "New Phoenix",
+    "details": null,
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "303 West 42nd Street",
+      "line2": "Room #306",
+      "zip": 10036,
+      "other": "Betw. 8th & 9th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Ninth Avenue     (:I)",
+    "details": "Business meeting held on 1st Monday at 7:45pm LGBTQ Friendly.  All are welcome.",
+    "building": "Holy Apostles Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "296 9th Avenue",
+      "line2": "2nd Floor",
+      "zip": 10001,
+      "other": "Corner of West 28th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": "First Step Workshop"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Nu Garden",
+    "details": "All meetings are non-smoking.",
+    "building": "St. Francis of Assisi Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "139 West 31st Street",
+      "line2": "3rd Floor",
+      "zip": 10001,
+      "other": "Betw 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Park Bench   (:i)",
+    "details": null,
+    "building": "St. Thomas Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "1 West 53rd Street",
+      "line2": "3rd Floor",
+      "zip": 10019,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Powerless",
+    "details": "Fri=Living Sober, Sat=Promises",
+    "building": "Manhattan Plaza Health Club",
+    "wheelchair": true,
+    "address": {
+      "line1": "484 West 43rd Street",
+      "line2": "1st Floor",
+      "zip": 10036,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Promises",
+    "details": null,
+    "building": "Fifth Av Presbyterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "7 West 55th Street",
+      "line2": null,
+      "zip": 10019,
+      "other": "@ 5th Av",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Promises",
+    "details": null,
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8 Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Rainbow Room",
+    "details": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\"",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Renaissance",
+    "details": null,
+    "building": "The Learning Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "4 West 43rd Street",
+      "line2": null,
+      "zip": 10017,
+      "other": "Off of 5th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:30 AM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Saturday Rotating 12 Step",
+    "details": "Rotating Step meeting.",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Spiritual Fridays",
+    "details": "Topic meeting, focus is on Spirituality",
+    "building": "Church of The Holy Apostles",
+    "wheelchair": false,
+    "address": {
+      "line1": "296 Ninth Avenue",
+      "line2": "Rectory",
+      "zip": 10001,
+      "other": "@28th street, Enter at 9th avenue, small building south of the church",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
+        "specialInterest": "Spiritual Workshop"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "St. Thomas A.M.",
+    "details": "Round Robin Meeting.",
+    "building": "St. Thomas Church Parish House",
+    "wheelchair": false,
+    "address": {
+      "line1": "1 West 53rd Street",
+      "line2": "3rd Floor",
+      "zip": 10019,
+      "other": "@ 5th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:45 AM",
+        "endTime": "8:45 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Statler At Noon",
+    "details": "T Last Thursday; S other Thursdays All meetings are non-smoking.",
+    "building": "St. John the Baptist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "210 West 31st Street",
+      "line2": "Basement (On Left)",
+      "zip": 10001,
+      "other": "Betw. 7th & 8th Aves",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Eightieth Street",
+    "details": "T-1st Wednesday",
+    "building": "Trinity Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "422 West 57th Street",
+      "line2": null,
+      "zip": 10019,
+      "other": "Betw 9th and 10th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Sunday Night Beginners",
+    "details": null,
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": "Betw. Broadway & 8th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Tuesday Sober Agnostics",
+    "details": "Agnostic- no prayer",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "134 West 29th Street - 2nd floor Studio 203",
+      "line2": null,
+      "zip": 10001,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "od",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "West 58th Street Step",
+    "details": null,
+    "building": "Mount Sinai - Roosevelt Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "1000 Tenth Avenue",
+      "line2": "8th Fl",
+      "zip": 10019,
+      "other": "Betw 58th & 59th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Women Over Forty",
+    "details": "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday Women's Meeting.",
+    "building": "GMHC",
+    "wheelchair": true,
+    "address": {
+      "line1": "446 West 33rd Street",
+      "line2": null,
+      "zip": 10001,
+      "other": "Betw. 9th & 10th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Young in 164",
+    "details": null,
+    "building": "St. Clements Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "423 West 46th Street",
+      "line2": null,
+      "zip": 10036,
+      "other": "Betw. 9th and 10th",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "04"
+  },
+  {
+    "title": "Young People's Meeting",
+    "details": "Young People BB Meeting",
+    "building": "46th Street Club House",
+    "wheelchair": false,
+    "address": {
+      "line1": "252 West 46th Street",
+      "line2": "3rd Floor",
+      "zip": 10036,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "9:15 PM",
+        "endTime": "10:15 PM",
+        "type": "bb",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "04"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "title": "AA Literature",
+    "details": "FRONT BASEMENT ONLY",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "122 East 37th Street",
+      "line2": "Basement",
+      "zip": 10016,
+      "other": "Betw Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Breakfast Club",
+    "details": "All meetings are Round Robin format except Thursday. Tue=Alternating Step/Trad.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "30 East 35th Street",
+      "line2": null,
+      "zip": 10016,
+      "other": "Betw Madison & Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Carlyle",
+    "details": "3rd Floor library",
+    "building": "Cathedral High School",
+    "wheelchair": false,
+    "address": {
+      "line1": "350 East 56th Street",
+      "line2": null,
+      "zip": 10022,
+      "other": "Betw 1st  & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "5:45 PM",
+        "endTime": "6:45 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Citikorp",
+    "details": "T -7:30am last Mon., Anniv -12:30 Last Thursday",
+    "building": "St. Peter's Lutheran Church @ Citicorp Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "619 Lexington Avenue",
+      "line2": "Lower Level Music Rooms",
+      "zip": 10022,
+      "other": "Enter on 54th Street, Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Courage To Change",
+    "details": "Wed.6:15 BB=OD Big Book Study Fri.7:30pm=Anniv. Meeting every Fri.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "122 East 37th Street",
+      "line2": "Basement",
+      "zip": 10016,
+      "other": "Betw. Park & Lexington Avenues ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:45 PM",
+        "endTime": "1:45 PM",
+        "type": "s",
+        "specialInterest": "First Step Workshop"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Empire State",
+    "details": "T Last Wednesday",
+    "building": "J.H. Holmes Community House",
+    "wheelchair": false,
+    "address": {
+      "line1": "28 East 35th Street",
+      "line2": null,
+      "zip": 10016,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Gotham",
+    "details": "Beginners Meeting 2nd & 4th Sunday Step Meeting 1st &3rd Sunday",
+    "building": "Cathedral High School ",
+    "wheelchair": false,
+    "address": {
+      "line1": "350 East 56th Street ",
+      "line2": null,
+      "zip": 10022,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Grand Central",
+    "details": "T=Last Tuesday, Fri=Anniv. 2nd to Last Friday. All meetings are non-smoking.",
+    "building": "Soldiers, Sailors, Marines & Airmen's Club",
+    "wheelchair": false,
+    "address": {
+      "line1": "283 Lexington Avenue",
+      "line2": "2nd Floor",
+      "zip": 10016,
+      "other": "Betw 36th & 37th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": "First Step Workshop"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Grupo Brasil",
+    "details": "Portugese speaking meeting.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "122 East 37th Street",
+      "line2": "Basement",
+      "zip": 10016,
+      "other": "Betw. Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Life Line",
+    "details": "All meetings are non-smoking.",
+    "building": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "619 Lexington Avenue",
+      "line2": "Lower Level 2 in The Studio",
+      "zip": 10022,
+      "other": "Enter on 54th Street, Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Lunch Bunch",
+    "details": "Enter main Church entrance, turn left, meeting is downstairs. T 3rd Wed. Open Anniv. or Open Disc. Meeting last Fri.",
+    "building": "Saint Agnes Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "141 East 43rd Street",
+      "line2": "Basement Hall",
+      "zip": 10017,
+      "other": "Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Lunchtime Express at The Mustard Seed",
+    "details": null,
+    "building": "MUSTARD SEED",
+    "wheelchair": false,
+    "address": {
+      "line1": "122 E 37TH St.",
+      "line2": null,
+      "zip": 10016,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:15 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Meditation Saturday Night",
+    "details": "11th S Meditation ENT BASEMENT ONLY",
+    "building": "Mustard Seed",
+    "wheelchair": false,
+    "address": {
+      "line1": "122 East 37th Street",
+      "line2": null,
+      "zip": 10016,
+      "other": "Betw. Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": null,
+        "specialInterest": "Eleventh Step Meditation"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Monday Men",
+    "details": null,
+    "building": "St. Agnes Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "141 East 43rd Street",
+      "line2": null,
+      "zip": 10017,
+      "other": "Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Murray Hill",
+    "details": "No Meetings on Legal Holidays.",
+    "building": "Church of the Incarnation",
+    "wheelchair": false,
+    "address": {
+      "line1": "209 Madison Avenue",
+      "line2": "2nd Floor",
+      "zip": 10016,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Mustard Seed     (:I)",
+    "details": "Sun.7:30am,Tue.6:15pm B & Wed.6:15pm C =Meditation Wkshp., Sun.9:30am Step=Back to Basics, Fri.7:30pm=Anniv.every Fri. Thurs. 8am back room, Gratitude",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "122 East 37th Street",
+      "line2": "Basement",
+      "zip": 10016,
+      "other": "Betw Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:15 AM",
+        "endTime": "7:15 AM",
+        "type": "bb",
+        "specialInterest": "Daily Reflections"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Rebellion Dogs",
+    "details": "Living Sober",
+    "building": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "619 Lexington Avenue",
+      "line2": "Lower Level",
+      "zip": 10022,
+      "other": "Enter on 54th Street, Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Saturday East",
+    "details": "Focus is on members under 60 days.  All are welcome. Anniversaries last week of month",
+    "building": "Church of the Good Shepherd",
+    "wheelchair": true,
+    "address": {
+      "line1": "240 East 31st Street",
+      "line2": null,
+      "zip": 10016,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Saturday Step",
+    "details": null,
+    "building": "The New York New Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "114 East 35th Street",
+      "line2": "2nd Floor",
+      "zip": 10016,
+      "other": "Betw. Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Serenity East",
+    "details": "Fri.6:30=Steps 3 & 11",
+    "building": "ALL SAINTS CHURCH",
+    "wheelchair": false,
+    "address": {
+      "line1": "230 East 60th Street (Basement) ",
+      "line2": null,
+      "zip": 10022,
+      "other": "Betw 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Serenity East (:i)",
+    "details": null,
+    "building": "Caron Foundation",
+    "wheelchair": true,
+    "address": {
+      "line1": "244 East 58th Street",
+      "line2": null,
+      "zip": 10022,
+      "other": "Between 2nd and 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Silkworth Women's",
+    "details": "Women's Meeting.",
+    "building": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "619 Lexington Avenue",
+      "line2": "Lower Level",
+      "zip": 10022,
+      "other": "Enter on 54th Street, Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "St. Bart's Twelve-Thirties",
+    "details": "Anniv. Last Mon., T-Last Wed., Topic-Last Fri. All meetings are OPEN to Public NOTE: Monday & Wednesday in Choir Room. Friday in Vestry Room. Also check the Board at Church entrance.",
+    "building": "St. Bartholomew's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "325 Park Avenue",
+      "line2": null,
+      "zip": 10022,
+      "other": "Betw. East 50th & 51st Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Straight 12",
+    "details": null,
+    "building": "CHURCH OF THE GOOD SHEPARD",
+    "wheelchair": false,
+    "address": {
+      "line1": "236 EAST 31st STREET ",
+      "line2": "basement",
+      "zip": 10016,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Templeton",
+    "details": null,
+    "building": "Conservative Synagogue",
+    "wheelchair": false,
+    "address": {
+      "line1": "308 East 55th Street",
+      "line2": null,
+      "zip": 10022,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Trafalgar",
+    "details": null,
+    "building": "The Caron Foundation",
+    "wheelchair": true,
+    "address": {
+      "line1": "244 East 58th Street",
+      "line2": null,
+      "zip": 10022,
+      "other": "Betw. 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Tudor",
+    "details": null,
+    "building": "Caron Foundation",
+    "wheelchair": true,
+    "address": {
+      "line1": "244 East 58th Street",
+      "line2": "Lower Level",
+      "zip": 10022,
+      "other": "Betw. 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  },
+  {
+    "title": "Women's Eleventh Step",
+    "details": "11th Step, Anniv. 3rd Wednesday No Smoking",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "109 East 50th Street",
+      "line2": null,
+      "zip": 10022,
+      "other": "Between Park & Lexington",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "5:45 PM",
+        "endTime": "7:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "05"
+  }
+]

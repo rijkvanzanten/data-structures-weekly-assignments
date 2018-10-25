@@ -1,0 +1,239 @@
+[
+  {
+    "code": "01",
+    "neighborhoods": [
+      {
+        "name": "Battery Park City",
+        "zipcodes": [
+          "10280",
+          "10281",
+          "10282"
+        ]
+      },
+      {
+        "name": "Bowling Green",
+        "zipcodes": [
+          "10004"
+        ]
+      },
+      {
+        "name": "City Hall",
+        "zipcodes": [
+          "10038"
+        ]
+      },
+      {
+        "name": "South Street Seaport",
+        "zipcodes": [
+          "10041"
+        ]
+      },
+      {
+        "name": "Tribeca",
+        "zipcodes": [
+          "10013",
+          "10006"
+        ]
+      },
+      {
+        "name": "Wall Street",
+        "zipcodes": [
+          "10005"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "02",
+    "neighborhoods": [
+      {
+        "name": "Bowery Lower East Side",
+        "zipcodes": [
+          "10002"
+        ]
+      },
+      {
+        "name": "Greenwich Village South",
+        "zipcodes": [
+          "10014"
+        ]
+      },
+      {
+        "name": "SoHo",
+        "zipcodes": [
+          "10012"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "03",
+    "neighborhoods": [
+      {
+        "name": "Chelsea",
+        "zipcodes": [
+          "10001"
+        ]
+      },
+      {
+        "name": "East Village",
+        "zipcodes": [
+          "10003"
+        ]
+      },
+      {
+        "name": "Gramercy Park",
+        "zipcodes": [
+          "10010"
+        ]
+      },
+      {
+        "name": "Greenwich Village North",
+        "zipcodes": [
+          "10011"
+        ]
+      },
+      {
+        "name": "Stuyvesant Town Peter Cooper Square",
+        "zipcodes": [
+          "10009"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "04",
+    "neighborhoods": [
+      {
+        "name": "Hell's Kitchen",
+        "zipcodes": [
+          "10019",
+          "10036"
+        ]
+      },
+      {
+        "name": "Midtown West Side",
+        "zipcodes": [
+          "10018"
+        ]
+      },
+      {
+        "name": "Rockefeller Center",
+        "zipcodes": [
+          "10020"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "05",
+    "neighborhoods": [
+      {
+        "name": "East 50th to 60th Street",
+        "zipcodes": [
+          "10022"
+        ]
+      },
+      {
+        "name": "Kip's Bay / Murray Hill",
+        "zipcodes": [
+          "10016"
+        ]
+      },
+      {
+        "name": "Tudor City / Turtle Bay",
+        "zipcodes": [
+          "10017"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "06",
+    "neighborhoods": [
+      {
+        "name": "Upper West Side",
+        "zipcodes": [
+          "10023",
+          "10024",
+          "10025"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "07",
+    "neighborhoods": [
+      {
+        "name": "Roosevelt Island",
+        "zipcodes": [
+          "10044"
+        ]
+      },
+      {
+        "name": "Upper East Side",
+        "zipcodes": [
+          "10021"
+        ]
+      },
+      {
+        "name": "Yorkville / Carnegie Hill",
+        "zipcodes": [
+          "10128"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "08",
+    "neighborhoods": [
+      {
+        "name": "Morningside Heights",
+        "zipcodes": [
+          "10026"
+        ]
+      },
+      {
+        "name": "West Harlem",
+        "zipcodes": [
+          "10027",
+          "10030",
+          "10031",
+          "10037",
+          "10039"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "09",
+    "neighborhoods": [
+      {
+        "name": "East Harlem",
+        "zipcodes": [
+          "10029",
+          "10035"
+        ]
+      },
+      {
+        "name": "Inwood",
+        "zipcodes": [
+          "10034"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "10",
+    "neighborhoods": [
+      {
+        "name": "Washington Heights",
+        "zipcodes": [
+          "10032",
+          "10033",
+          "10040"
+        ]
+      }
+    ]
+  }
+]

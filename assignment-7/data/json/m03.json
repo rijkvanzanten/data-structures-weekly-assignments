@@ -1,0 +1,1778 @@
+[
+  {
+    "title": "12 Concepts Workshop",
+    "details": "Only meets on the 1st Wednesday of the month. A.A.'s 12 Concepts Meeting.",
+    "building": "N.Y.U Bronfman Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "7 East 10th Street",
+      "line2": "2nd Floor",
+      "zip": 10003,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:15 PM",
+        "endTime": "9:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Twenty-Two Below",
+    "details": "Trad.1st Wed., Fri.=Topic, Sat.=Round Robin Sharing All meetings are non-smoking.",
+    "building": "Gustavus Adolphus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 East 22nd Street",
+      "line2": "Basement",
+      "zip": 10010,
+      "other": "Betw Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "od",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "MEDITATION",
+    "details": "Topic meeting, focus is on meditation Thursday meeting ends at 7:10",
+    "building": "Three Jewels Community Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "61 Fourth Avenue",
+      "line2": "3rd Floor",
+      "zip": 10003,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:00 PM",
+        "endTime": "7:15 PM",
+        "type": null,
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Agnostics At Noon",
+    "details": "GLBT Focus. All are welcome.",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": "3rd Floor",
+      "zip": 10011,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Alive Again",
+    "details": null,
+    "building": "Seafarers & Intl House",
+    "wheelchair": true,
+    "address": {
+      "line1": "123 East 15th Street",
+      "line2": "2nd Floor Conference Room",
+      "zip": 10003,
+      "other": "@ Irving Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "At Bill's Place",
+    "details": null,
+    "building": "Calvary Church Parish House",
+    "wheelchair": false,
+    "address": {
+      "line1": "61 Gramercy Park North",
+      "line2": null,
+      "zip": 10010,
+      "other": "Betw Park & Lexington Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Atlantic By The Book",
+    "details": "",
+    "building": "Gustavus Adolphus Lutheran Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "155 East 22nd Street",
+      "line2": "Ground Floor",
+      "zip": 10010,
+      "other": "Betw. Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Atlantic Downtown",
+    "details": "no entry before 5:30",
+    "building": "Mabel Bacon High School of the Future",
+    "wheelchair": true,
+    "address": {
+      "line1": "127 East 22nd Street",
+      "line2": "2nd Floor Auditorium",
+      "zip": 10010,
+      "other": "Betw. Lexington & Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Avenue B Clean and Dry",
+    "details": "Ground Floor Anniversaries last Thursday of month",
+    "building": "Trinity Lower East Side Lutheran Parish",
+    "wheelchair": true,
+    "address": {
+      "line1": "602 East 9th Street",
+      "line2": null,
+      "zip": 10009,
+      "other": "@ Avenue B",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Big Book Magic",
+    "details": null,
+    "building": "McBurney YMCA",
+    "wheelchair": true,
+    "address": {
+      "line1": "125 West 14th Street",
+      "line2": "Kuttner Room",
+      "zip": 10011,
+      "other": "Betw. 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:45 PM",
+        "endTime": "8:45 PM",
+        "type": "bb",
+        "specialInterest": "Big Book Topic"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Chelsea Mornings",
+    "details": "Wed. alternates between Step and Tradition",
+    "building": "St. Peters Episcopal Church- Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "346 W. 20th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "b",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Chelsea Nooners",
+    "details": "Anniv. Last Thursday All Meetings Are Non-Smoking",
+    "building": "McBurney YMCA",
+    "wheelchair": true,
+    "address": {
+      "line1": "125 West 14th Street",
+      "line2": "Ground Floor",
+      "zip": 10011,
+      "other": "Betw 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Complete Abandon",
+    "details": null,
+    "building": "Our Lady of Immaculate Conception",
+    "wheelchair": true,
+    "address": {
+      "line1": "414 East 14th Street",
+      "line2": "Auditorium",
+      "zip": 10009,
+      "other": "Betw 1st Avenue & Avenue A",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:30 PM",
+        "endTime": "9:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Completely Sober",
+    "details": "Non-Smoking Meeting.",
+    "building": "Fulton Senior Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "119 Ninth Avenue",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw. 17th and 18th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:45 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Crossroads",
+    "details": "Check in at front desk all meetings are non-smoking",
+    "building": "Christopher House",
+    "wheelchair": true,
+    "address": {
+      "line1": "202 West 24 Street",
+      "line2": "Mezzanine",
+      "zip": 10011,
+      "other": "between 7th and 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "East Meets West In Sobriety",
+    "details": "*Open Anniv Last Wednesday Non-Smoking Meeting.",
+    "building": "Brotherhood Synagogue",
+    "wheelchair": true,
+    "address": {
+      "line1": "28 Gramercy Park South",
+      "line2": "1st Floor",
+      "zip": 10003,
+      "other": "East 20th Street @ Irving Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "East Village",
+    "details": "LGBT; all welcome. Tues 7pm=Artists in Recovery, all welcome. 8:30 1st Tues of Month Bus mtg. at 8:05",
+    "building": "Middle Collegiate Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "50 East 7th Street",
+      "line2": "3rd and 4th floors",
+      "zip": 10003,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Experience Strength And Hope",
+    "details": null,
+    "building": "University Settlement House",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery",
+      "line2": "2nd Floor Classroom",
+      "zip": 10003,
+      "other": "Southeast corner of Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Grace On Broadway",
+    "details": null,
+    "building": "Grace Church Office Building",
+    "wheelchair": true,
+    "address": {
+      "line1": "802 Broadway",
+      "line2": "3rd Floor Conference Room",
+      "zip": 10003,
+      "other": "@ 10th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:15 AM",
+        "endTime": "9:15 AM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Gramercy",
+    "details": "Last Mon.6:30pm=Anniv Last Thursday Tradition",
+    "building": "Brothhood Synagogue",
+    "wheelchair": true,
+    "address": {
+      "line1": "28 Grammercy Park South",
+      "line2": "2nd floor",
+      "zip": 10010,
+      "other": "between 3rd Ave. & Irving Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Grateful Group of A.a.",
+    "details": "Tue.Topic=Gratitude, Thu=11th Step Meditation Meeting,",
+    "building": "Saint George Episcopal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "209 East 16th Street",
+      "line2": "Basement",
+      "zip": 10003,
+      "other": "Betw 3rd Avenue & Rutherford Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "b",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Grupo El Milagro",
+    "details": "Spanish speaking meeting.",
+    "building": "Church of the Nativity",
+    "wheelchair": false,
+    "address": {
+      "line1": "44 2nd Avenue",
+      "line2": "Main Floor",
+      "zip": 10003,
+      "other": "Betw East 2nd & 3rd Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Grupo Gratitud",
+    "details": "Mon=Step 1st Mon. Spanish speaking meetings.",
+    "building": "Our Lady of Guadalupe Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "229 West 14th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Grupo Sobriedad",
+    "details": "Spanish speaking meeting.",
+    "building": "Our Lady of Guadalupe Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "229 West 14th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "High Noon",
+    "details": "Interpreted for the deaf and hard of hearing Check listing at the center for the room number.",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "o",
+        "specialInterest": "Interpreted for The Deaf"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Just For Today",
+    "details": "Please Do Not Call the Synagogue for Meeting Info.",
+    "building": "Brotherhood Synagogue",
+    "wheelchair": true,
+    "address": {
+      "line1": "28 Gramercy Park South",
+      "line2": null,
+      "zip": 10003,
+      "other": "@ East 20th Street & Irving Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "TERMINAL UNIQUENESS",
+    "details": "LA Transplants/Vistors    All Welcome",
+    "building": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 W 13th Street",
+      "line2": "Room 212",
+      "zip": 10001,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Learning to Live ( :1)",
+    "details": null,
+    "building": "The Upright Citizens Brigade Theatre",
+    "wheelchair": true,
+    "address": {
+      "line1": "307 W. 26th St.",
+      "line2": null,
+      "zip": 10011,
+      "other": "at 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 AM",
+        "type": "c",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Learning to Live ( :ii)",
+    "details": null,
+    "building": "St. Columba Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "343 West 25th Street",
+      "line2": null,
+      "zip": 10001,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Living Now     (:II)",
+    "details": "Tue.7pm=4th & 5th Step Workshop, **Beginners 3 speaker panel Sat.& Sun.10am Meeting is in the main theatre.",
+    "building": "Theatre 80",
+    "wheelchair": false,
+    "address": {
+      "line1": "80 St. Mark's Place",
+      "line2": "2nd Floor",
+      "zip": 10003,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "o",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Living Today",
+    "details": "Gay & lesbian focus.  All are welcome.",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Madison Park Beginners",
+    "details": null,
+    "building": "Intercare",
+    "wheelchair": true,
+    "address": {
+      "line1": "51 East 25th Street",
+      "line2": "Lower Level",
+      "zip": 10010,
+      "other": "Betw. Madison & Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Manhattan",
+    "details": "Open Anniv Last Tuesday. All meetings are non-smoking.",
+    "building": "Gustavus Adolphus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 East 22nd Street",
+      "line2": "Basement",
+      "zip": 10010,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "N.Y.U. (Now You Understand)",
+    "details": "Tue.2pm=11th Step Meditation, Thu.12:30pm=Topic, Fri.12:30pm Note: There Is No 2:00 Meeting On The Last Day Of The Month Anniv. Last Weekday of the Month",
+    "building": "Bronfman Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "7 East 10th Street",
+      "line2": "2nd Floor (Note: A photo ID is required to enter the building.)",
+      "zip": 10003,
+      "other": "Betw 5th Avenue & University Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "s",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Never Had A Legal Drink",
+    "details": "Anniv. Last Thursday",
+    "building": "German Evangelist Lutheran Church of St. Paul",
+    "wheelchair": false,
+    "address": {
+      "line1": "315 West 22nd Street",
+      "line2": "1st Floor",
+      "zip": 10011,
+      "other": "Betw. 8th & 9th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "od",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "New Life In Sobriety",
+    "details": "T 1st Monday, Anniv Last Friday. All meetings are non-smoking.",
+    "building": "Friends Meeting House",
+    "wheelchair": false,
+    "address": {
+      "line1": "15 Rutherford Place",
+      "line2": "Basement",
+      "zip": 10003,
+      "other": "Betw 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Ninjas in Recovery",
+    "details": null,
+    "building": "The Realization Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "25 East 15th- Conference Room H",
+      "line2": null,
+      "zip": 10003,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Ninth Avenue    (:II)",
+    "details": "Fri.6pm OD=11th Step Meditation, Fri.7:15pm O=Anniv Last Friday, +HIV Topic LGBTQ Friendly.  All are welcome. Fri 7:15 CD=Relationships in Sobriety Business meeting at Holy Apostoles on 1st Monday a",
+    "building": "General Theological Seminary",
+    "wheelchair": false,
+    "address": {
+      "line1": "175 9th Avenue",
+      "line2": "1st and 2nd Floor",
+      "zip": 10011,
+      "other": "Enter thru gate on 21st Street Betw. 9th & 10th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "b",
+        "specialInterest": "Eleventh Step Meditation"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Oadw (once A Drunk Woman)",
+    "details": "Women's Meeting except for last Tuesday of the month.",
+    "building": "The Realization Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "19 Union Square West",
+      "line2": "7th Floor",
+      "zip": 10003,
+      "other": "Betw. 5th Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "P.A.X",
+    "details": "Mon.BB Meeting is in the basement, Tue.6:45pm=T Last Tue. Basement is not Wheel Chair Accessible.",
+    "building": "Gustavus Adolphus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 East 22nd Street",
+      "line2": "1st Floor",
+      "zip": 10010,
+      "other": "Between Lexington & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "b",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Pot Luck",
+    "details": null,
+    "building": "Veterans Administration Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "423 East 23rd Street",
+      "line2": "3rd fl",
+      "zip": 10010,
+      "other": "@ Main entrance is East of 1st Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:00 PM",
+        "endTime": "10:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Potpourri",
+    "details": "T Last Tuesday, Thu.=Topic",
+    "building": "St. George's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "209 East 16th Street",
+      "line2": "Olmstead Hall",
+      "zip": 10003,
+      "other": "Betw 3rd Avenue & Rutherford Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:00 PM",
+        "endTime": "6:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Primetime Nyc (ii)",
+    "details": null,
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "411 East 12th Street",
+      "line2": null,
+      "zip": 10009,
+      "other": "Between 1st Avenue & Avenue A",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "1:30 PM",
+        "endTime": "2:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Saturday Beginners",
+    "details": "Beginners meeting meets in Olmsted Hall Big Book topic meeting meets in the Music Room",
+    "building": "St. George's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "209 East 16th Street",
+      "line2": null,
+      "zip": 10003,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Saturday Weekenders",
+    "details": null,
+    "building": "Epiphany Roman Catholic Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "239 East 21st Street",
+      "line2": "Church Rectory",
+      "zip": 10009,
+      "other": "Betw. 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Save Her A Seat",
+    "details": "Tue=S Last Tue. & focus is on women with 5 years of sobriety or more.  All are welcome Fri=O Last Fri. & focus is on women with 5 years of sobriety or less.  All are welcome. Friday beginners = Trans Welcome",
+    "building": "First Presbyterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "12 West 12th Street",
+      "line2": "6th Floor-Roof Level",
+      "zip": 10011,
+      "other": "Betw. 5th & 6th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "b",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Second Avenue Clean And Dry",
+    "details": null,
+    "building": "Church of the Nativity",
+    "wheelchair": false,
+    "address": {
+      "line1": "44 2nd Avenue",
+      "line2": null,
+      "zip": 10003,
+      "other": "Betw. East 2nd & 3rd Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Sober Miracles",
+    "details": "S&M Lifestyles",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:30 PM",
+        "endTime": "10:30 PM",
+        "type": "od",
+        "specialInterest": "Special Purpose Groups"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Sobriety On The Square",
+    "details": "T Last Tue., Fri=Topic, Sat=11th Step Meditation",
+    "building": "Church of the Ascension Parish House",
+    "wheelchair": false,
+    "address": {
+      "line1": "12 West 11th Street",
+      "line2": "Ground Floor",
+      "zip": 10011,
+      "other": "Betw 5th Avenue & Avenue of the Americas",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Speaker Magic",
+    "details": null,
+    "building": "PS 41 Elementary School",
+    "wheelchair": false,
+    "address": {
+      "line1": "116 West 11th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Straight 12 (:ii)  Downtown Saturday Night",
+    "details": null,
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "80 5th Avenue",
+      "line2": "14th Floor",
+      "zip": 10011,
+      "other": "@ 14th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Sunday At Six",
+    "details": "TEMPORARILY MEETING AT THE LGBT CENTER 208 W 13TH UNTIL FURTHER NOTICE",
+    "building": "P.S. 41 (see footnote re: temp location)",
+    "wheelchair": true,
+    "address": {
+      "line1": "116 W. 11th Street",
+      "line2": "Cafeteria",
+      "zip": 10011,
+      "other": "Between 6th and 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Sunday Morning Meditation",
+    "details": "Meeting In Basement 11th Step Meditation Meeting",
+    "building": "Gustavus Adolphus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 East 22nd Street",
+      "line2": null,
+      "zip": 10010,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "9:00 AM",
+        "endTime": "10:00 AM",
+        "type": "c",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Sunday Nooners",
+    "details": null,
+    "building": "East Midtown Plaza (Community Room H)",
+    "wheelchair": true,
+    "address": {
+      "line1": "319 Eastr 24th Street",
+      "line2": null,
+      "zip": 10010,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Survivors in Sobriety",
+    "details": "Focus is on dealing with cancer in recovery.  All are welcome",
+    "building": "Beth Israel Hospital @ Karpas Cancer Center Library",
+    "wheelchair": true,
+    "address": {
+      "line1": "10 East Union Square",
+      "line2": "4th Floor",
+      "zip": 10003,
+      "other": "@14th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": "Special Purpose Groups"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Svoboda",
+    "details": "Sunday=As Bill Sees It Ukrainian language translation is available if needed.",
+    "building": "All Saints Ukrainian Orthodox Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "206-208 East 11th Street",
+      "line2": null,
+      "zip": 10003,
+      "other": "Btw. 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "T.G.I.F. & S.",
+    "details": "Fri B = 1st Time in AA Only",
+    "building": "Seafarers & International House",
+    "wheelchair": true,
+    "address": {
+      "line1": "123 East 15th Street",
+      "line2": "2nd Floor",
+      "zip": 10003,
+      "other": "@ Irving Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "The 12th Street Workshop",
+    "details": "Sun.4:30=Business Mtg Only 1st & Anniv Last Sunday Sun.7:30pm,Tue.5:30,Wed.8:30pm & Sat.10:30am=11th Step Meditation Mon.5:30=Gratitude & Sat.7:30am=AA Grapevine",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "411 East 12th Street",
+      "line2": "Basement",
+      "zip": 10009,
+      "other": "Betw 1st Avenue & Avenue A",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "s",
+        "startTime": "12:00 AM",
+        "endTime": "12:00 AM",
+        "type": "c",
+        "specialInterest": "Steps 1 2 3"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Fellowship Club",
+    "details": null,
+    "building": "McBurney YMCA",
+    "wheelchair": true,
+    "address": {
+      "line1": "125 West 14th Street",
+      "line2": "1st Floor Meeting Room",
+      "zip": 10011,
+      "other": "Betw. 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Transgender Focus",
+    "details": "Trans-female focus",
+    "building": "LGBT Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Twelve At Six",
+    "details": null,
+    "building": "Beth Israel Phillips Ambulatory Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "10 Union Square East",
+      "line2": "2nd Floor",
+      "zip": 10003,
+      "other": "Betw. 14th & 15th Streets @ 4th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Upon Awakening",
+    "details": null,
+    "building": "St. Francis Residence",
+    "wheelchair": true,
+    "address": {
+      "line1": "155 West 22nd Street",
+      "line2": "1st Floor",
+      "zip": 10011,
+      "other": "Betw. 6th & 7th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:45 PM",
+        "endTime": "1:45 PM",
+        "type": "s",
+        "specialInterest": "Eleventh Step"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Village Agnostics",
+    "details": "Sun.5:30pm meets only on the last Sunday of the month No Prayers - All Welcome - Check listing for Rm #",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "c",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Village Open Discussion",
+    "details": "1st & 3rd Wk=Step/Big Book , 2nd & 4th Wk=Promises",
+    "building": "First Presbyterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "12 West 12th Street",
+      "line2": "Third Floor",
+      "zip": 10011,
+      "other": "at 5th Avenue between 11th and 12th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "OVER & UNDER 60",
+    "details": null,
+    "building": "The Caring Community",
+    "wheelchair": true,
+    "address": {
+      "line1": "20 Washington Square North",
+      "line2": "2nd Floor",
+      "zip": 10011,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "3:30 PM",
+        "endTime": "4:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Weekenders",
+    "details": "Please Do Not Call the Y for Meeting Info.",
+    "building": "14th Street Y",
+    "wheelchair": true,
+    "address": {
+      "line1": "344 East 14th Street",
+      "line2": null,
+      "zip": 10003,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "West 22nd Street Sobriety",
+    "details": null,
+    "building": "St. Francis Residence",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 West 22nd Street",
+      "line2": "1st Floor",
+      "zip": 10011,
+      "other": "Off of 7th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Westwingers    (:I)",
+    "details": "Lesbian and gay focus.  All are welcome Meeting format is \"Round Robin.\"",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw. 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Wholesale Miracles",
+    "details": null,
+    "building": "Trinity Lutheran Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "602 East 9th Street",
+      "line2": "Ground Floor",
+      "zip": 10009,
+      "other": "@ Avenue B",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Women Now",
+    "details": "Topic Meeting & Anniv. Last Tuesday.",
+    "building": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Women Together    (:I)",
+    "details": "Women's Meeting Lesbian Focus.  All are welcome",
+    "building": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "208 West 13th Street",
+      "line2": null,
+      "zip": 10011,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": "Lesbian"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Women's Saturday Eleventh Step Meditation",
+    "details": "11th Step Meditation Meeting.",
+    "building": "Realization Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "19 Union Square West",
+      "line2": "7th Floor",
+      "zip": 10003,
+      "other": "Enter on 15th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Works in Progress",
+    "details": "Rotating Literature",
+    "building": "Most Holy Redeemer Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "173 East 3rd Street- basement",
+      "line2": null,
+      "zip": 10009,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": "Aa Literature"
+      }
+    ],
+    "zone": "03"
+  },
+  {
+    "title": "Young And Wise",
+    "details": "Basement",
+    "building": "Middle Collegiate Church ",
+    "wheelchair": false,
+    "address": {
+      "line1": "50 East 7th Street",
+      "line2": null,
+      "zip": 10003,
+      "other": "Betw 1st & 2nd Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:30 PM",
+        "type": "c",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "03"
+  }
+]

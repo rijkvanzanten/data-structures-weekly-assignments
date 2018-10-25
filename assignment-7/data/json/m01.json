@@ -1,0 +1,530 @@
+[
+  {
+    "title": "A Design for Living",
+    "details": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays",
+    "building": "St Andrews Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": "Rectory Basement",
+      "zip": 10007,
+      "other": "Between Duane and Pearl Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 AM",
+        "endTime": "8:00 AM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "A BRIDGE BACK",
+    "details": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
+    "building": "St. Andrew's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": "Enter through driveway behind Church.",
+      "zip": 10007,
+      "other": "1 Block North of Chambers Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Chinatown",
+    "details": null,
+    "building": "Church of the Transfiguration",
+    "wheelchair": false,
+    "address": {
+      "line1": "29 Mott Street",
+      "line2": "Basement",
+      "zip": 10013,
+      "other": "@ Mott & Mosco Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Downtown",
+    "details": null,
+    "building": "St. Margaret's Residence",
+    "wheelchair": true,
+    "address": {
+      "line1": "49 Fulton Street",
+      "line2": "1st Floor Library",
+      "zip": 10038,
+      "other": "@ Pearl Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Exchange Views @ John Street Church",
+    "details": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "44 John Street",
+      "line2": null,
+      "zip": 10038,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "od",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Exchange Views @ St. Margaret's House",
+    "details": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "49 Fulton Street",
+      "line2": null,
+      "zip": 10038,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:30 AM",
+        "endTime": "7:30 AM",
+        "type": "c",
+        "specialInterest": "Topic"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Friday Downtown",
+    "details": "Note: Location Subject to change",
+    "building": "St. Andrew's Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": "Enter thru driveway behind Church.",
+      "zip": 10007,
+      "other": "1 Block North of Chamber Street, Behind Federal Courthouse",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Gateway",
+    "details": null,
+    "building": "St. Peter's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "22 Barclay Street",
+      "line2": null,
+      "zip": null,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Passing The Bar",
+    "details": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
+    "building": "St. Andrew's Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": "Enter thru driveway behind Church.",
+      "zip": 10007,
+      "other": "Betw. Duane & Pearl Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "b",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "S.o.b.e.r.",
+    "details": "Enter on Church Street Lower floor, Parish Office Room",
+    "building": "Saint Peter's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "22 Barclay Street (Basement)",
+      "line2": null,
+      "zip": 10007,
+      "other": "Corner of Barclay & Church Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:30 PM",
+        "endTime": "8:45 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Sane and Sober",
+    "details": "Mental Health Challenges in Sobriety. *Alternating Closed & rotating 1, 2, 3 Step every other week. Open â€“ Last Wednesday.",
+    "building": "Hazelden Tribeca",
+    "wheelchair": true,
+    "address": {
+      "line1": "283 West Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": "Betw. Lispenard and Canal Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "Mental Health Issues in Sobriety"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Saturday Afternoon Discussion",
+    "details": "Ask security guard for room #",
+    "building": "Municipal Union Bldg DC 37",
+    "wheelchair": false,
+    "address": {
+      "line1": "125 Barclay Street",
+      "line2": null,
+      "zip": 10007,
+      "other": "Betw. Greenwich Street & West Side Highway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "2:00 PM",
+        "endTime": "3:15 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Seamen's Group",
+    "details": "*Co-ed meeting, all are welcome.",
+    "building": "St. Margaret's House",
+    "wheelchair": true,
+    "address": {
+      "line1": "49 Fulton Street",
+      "line2": "Conference Room #1",
+      "zip": 10038,
+      "other": "@ Water & Fulton Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Seaport",
+    "details": "11th Step Meditation (Mon), Topic (Thu)",
+    "building": "St. Margaret's House",
+    "wheelchair": true,
+    "address": {
+      "line1": "49 Fulton Street",
+      "line2": null,
+      "zip": 10038,
+      "other": "Corner of Fulton & Pearl Streets @ Water Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "c",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Tower",
+    "details": "Step 1st Wednesday",
+    "building": "Church of Saint Andrew",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": null,
+      "zip": 10007,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Triangle Group",
+    "details": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
+    "building": "Tribeca 12 Building",
+    "wheelchair": true,
+    "address": {
+      "line1": "283 West Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "c",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Tribeca Group @ St. Margaret's House",
+    "details": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "49 Fulton Street",
+      "line2": null,
+      "zip": 10038,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Tribeca",
+    "details": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com",
+    "building": "St. Peter's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "22 Barclay Street- basement chapel",
+      "line2": null,
+      "zip": 10006,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:45 PM",
+        "endTime": "8:45 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Women's Downtown Aa Step Meeting",
+    "details": null,
+    "building": "St. Andrew's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cardinal Hayes Place",
+      "line2": null,
+      "zip": 10007,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "1:15 PM",
+        "endTime": "2:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Young People's Diversity",
+    "details": "Lesbian, Gay, Bi-sexual & Transgendered Focus All are welcome.",
+    "building": "Hazelden Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "283 West Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:30 PM",
+        "endTime": "9:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Young People's Step",
+    "details": null,
+    "building": "Hazelden Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "283 West Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": "Between West Broadway and Canal Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:45 PM",
+        "endTime": "8:45 PM",
+        "type": "c",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "01"
+  },
+  {
+    "title": "Youth Enjoying Sobriety (Yes)",
+    "details": "Open Anniv. Last Saturday.",
+    "building": "Hazelden Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "283 W. Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": "at Canal Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:00 PM",
+        "endTime": "8:15 PM",
+        "type": "b",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "01"
+  }
+]

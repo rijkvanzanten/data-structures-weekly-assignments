@@ -1,0 +1,530 @@
+[
+  {
+    "title": "A New Way Of Living",
+    "details": "Check with Security for Room # T Last Thu, Living Sober & Anniv Last Fri. No meetings on public holidays",
+    "building": "Columbia Presbyterian Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "701 West 168th Street @ Fort Washington Avenue",
+      "line2": null,
+      "zip": 10032,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "s",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Bridge To Sobriety",
+    "details": "Living Sober Last Tuesday, T Last Wednesday",
+    "building": "Holy Rood Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "715 West 179th Street",
+      "line2": null,
+      "zip": 10033,
+      "other": "Betw Bway & Fort Washington Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "od",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Bridge to Sobriety (:ii)",
+    "details": "10th Step",
+    "building": "Holy Rood Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "715 West 179th Street",
+      "line2": null,
+      "zip": 10040,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Dyckman",
+    "details": "BB 1st & T Last Wed.",
+    "building": "St. Jude's School",
+    "wheelchair": false,
+    "address": {
+      "line1": "431 West 204th Street",
+      "line2": "Basement",
+      "zip": 10034,
+      "other": "Off of 10th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Found-A-Way",
+    "details": "Men's meeting & Gay men's focus. All are welcome. Anniversary last Sat., 1st Sat.=S followed by Bus. Mtg.",
+    "building": "Church of the Intercession",
+    "wheelchair": false,
+    "address": {
+      "line1": "550 West 155th Street",
+      "line2": "2nd Floor Guild Room",
+      "zip": 10032,
+      "other": "Betw Amsterdam Avenue & Bway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "12:30 PM",
+        "endTime": "2:00 PM",
+        "type": "c",
+        "specialInterest": "Gay Men"
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Grupo Despertar",
+    "details": "Spanish Speaking Meetings.",
+    "building": "Casita Esperanza",
+    "wheelchair": true,
+    "address": {
+      "line1": "557 West 156th Street",
+      "line2": null,
+      "zip": 10032,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:00 PM",
+        "endTime": "10:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Grupo La Flama Panamericana",
+    "details": "Spanish speaking meetings.",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "35 Thayer Street",
+      "line2": "Basement",
+      "zip": 10040,
+      "other": "@ 200th Street, behind Dyckman Avenue ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "7:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Grupo Libertad",
+    "details": "Spanish speaking meetings.",
+    "building": "Episcopal Holy Rood Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "715 West 179th Street",
+      "line2": "1st Floor",
+      "zip": 10033,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Grupo Recuperacion",
+    "details": "Spanish speaking meetings.",
+    "building": "Church Santa Rosa de Lima",
+    "wheelchair": false,
+    "address": {
+      "line1": "502 West165th Street",
+      "line2": "Basement",
+      "zip": 10032,
+      "other": "Betw. St. Nicholas & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Grupo Un Nuevo Amanecer",
+    "details": "Spanish Speaking Meetings.",
+    "building": "Our Lady Queen of Martyrs",
+    "wheelchair": false,
+    "address": {
+      "line1": "91 Arden Street",
+      "line2": null,
+      "zip": 10034,
+      "other": "2 blocks South of Dyckman Street, Betw. Broadway & Sherman Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Happy Destiny",
+    "details": "LGBT All welcome. Sun= As Bill See it; Wed=Steps1-3 Sun.meeting in Sanctuary; Wed meeting in Auditorium",
+    "building": "Holy Trinity Episcopal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cumming Street",
+      "line2": null,
+      "zip": 10034,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Inwood-Ft. Tryon",
+    "details": "Sat. Closed meeting rotating step/speaker/trad/anniversary In Dec. first two weeks will be Step meeting",
+    "building": "Mount Washington Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "84 Vermilyea Avenue",
+      "line2": null,
+      "zip": 10034,
+      "other": "@ 204th Street, 1 Block East of Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Isham Park",
+    "details": "Open Anniv. Last Mon.",
+    "building": "Church of the Good Shepherd",
+    "wheelchair": false,
+    "address": {
+      "line1": "620 Isham Street",
+      "line2": null,
+      "zip": 10034,
+      "other": "Betw Cooper Street & Seaman Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Progress Not Perfection",
+    "details": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays",
+    "building": "COATHA Church on the Hill Senior Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "2005 Amsterdam Avenue",
+      "line2": null,
+      "zip": 10032,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "The Men Upstairs",
+    "details": "Men's Meeting",
+    "building": "Our Saviour's Atonement Lutheran Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "178 Bennett Avenue",
+      "line2": "2nd Floor (Lorenz Library)",
+      "zip": 10040,
+      "other": "@ 189th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Missing Link",
+    "details": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD",
+    "building": "Our Saviour's Atonement Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "178 Bennett Avenue",
+      "line2": "2nd Floor",
+      "zip": 10040,
+      "other": "@ 189th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Upper Manhattan",
+    "details": null,
+    "building": "Our Lady Queen of Martyrs",
+    "wheelchair": false,
+    "address": {
+      "line1": "91 Arden Street",
+      "line2": null,
+      "zip": 10034,
+      "other": "2 blocks South of Dyckman Street, Betw. Broadway & Sherman Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Uptown Saturday Night",
+    "details": null,
+    "building": "Holy Trinity Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "20 Cummings Street",
+      "line2": null,
+      "zip": 10034,
+      "other": "Betw. Broadway & Seaman Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Washington Heights    (:I)",
+    "details": null,
+    "building": "Holy Rood Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "715 West 179th Street",
+      "line2": null,
+      "zip": 10033,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Washington Heights    (:II)",
+    "details": null,
+    "building": "Cornerstone Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "189th Street & Bennett Avenue",
+      "line2": "Kitchen",
+      "zip": 10040,
+      "other": "@ North Building",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "What We Are like now",
+    "details": null,
+    "building": "The Corner Stone Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "178 Bennett Avenue",
+      "line2": "2nd Floor",
+      "zip": 10040,
+      "other": "@ 189th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  },
+  {
+    "title": "Women's Nite",
+    "details": null,
+    "building": "Cornerstone Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "178 Bennett Avenue",
+      "line2": "Kitchen",
+      "zip": 10040,
+      "other": "@ 189th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "10"
+  }
+]

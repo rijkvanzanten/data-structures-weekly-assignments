@@ -1,0 +1,17 @@
+{
+  "name": "assignment-4",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node install.js && node index.js"
+  },
+  "keywords": [],
+  "author": "Rijk van Zanten <rijkvanzanten@me.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "pg": "^7.5.0"
+  }
+}

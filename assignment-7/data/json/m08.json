@@ -1,0 +1,626 @@
+[
+  {
+    "title": "A Chance To Live Again",
+    "details": null,
+    "building": "SRO Building",
+    "wheelchair": true,
+    "address": {
+      "line1": "109 West 129th Street",
+      "line2": "Basement",
+      "zip": 10027,
+      "other": "@ Lenox Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "AA It Works II",
+    "details": "Thu=Altern.BB, Living Sober & Other A.A. Literature. Fri.=Alternates between Step & Tradition.",
+    "building": "Union Baptist Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "240 West 145th Street",
+      "line2": null,
+      "zip": 10039,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Attitude Adjustment",
+    "details": "Topic 1st Saturday.",
+    "building": "Our Lady of Lourdes Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "469 West 142nd Street",
+      "line2": "Basement",
+      "zip": 10031,
+      "other": "Betw Convent & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Convent",
+    "details": "B-3rd Saturday",
+    "building": "St. Phillip Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "204 West 134th Street",
+      "line2": "1st Floor",
+      "zip": 10030,
+      "other": "Betw 7th & 8th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "11:30 AM",
+        "endTime": "1:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Fellowship At Noon",
+    "details": "T If there is a fifth Wednesday.",
+    "building": "Spiritual Renewal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "2044 Adam Clayton Powell Blvd.",
+      "line2": null,
+      "zip": 10027,
+      "other": "@ 122nd Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:15 PM",
+        "endTime": "1:15 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Grupo Trasmitelo",
+    "details": "Spanish speaking meeting.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "469 West 142nd Street",
+      "line2": "1st Floor",
+      "zip": 10031,
+      "other": "Betw. Amsterdam & Convent Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Harlem Humanists",
+    "details": "Contact in Advance for Wheelcahir Accessibility",
+    "building": "St. Mary's Episcopal",
+    "wheelchair": true,
+    "address": {
+      "line1": "521 W 126th St",
+      "line2": null,
+      "zip": 10027,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "o",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Keep It Simple (Kiss)",
+    "details": "All meetings are non-smoking.",
+    "building": "SRO Building Community Room",
+    "wheelchair": true,
+    "address": {
+      "line1": "109 West 129th Street",
+      "line2": "Basement",
+      "zip": 10027,
+      "other": "Betw Lenox Avenue & Adam Clayton Powell Blvd",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Learning To Live Sober",
+    "details": null,
+    "building": "Our Lady of Lourdes",
+    "wheelchair": false,
+    "address": {
+      "line1": "469 West 142nd Street",
+      "line2": "Basement",
+      "zip": 10031,
+      "other": "Betw Convent & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Living Clean And Sober On 121st Street",
+    "details": "S 2nd, BB 3rd, OD 4th, Living Sober 5th wk.",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "2044 Seventh Avenue",
+      "line2": null,
+      "zip": 10027,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Meditation Comes To Harlem",
+    "details": "Meeting is closed on holidays",
+    "building": "S.A.G.E.",
+    "wheelchair": true,
+    "address": {
+      "line1": "127 West 127th Street",
+      "line2": null,
+      "zip": 10027,
+      "other": "Betw. 7th and Lenox",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Mid-Harlem",
+    "details": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+    "building": "Grace Congregational Baptist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "310 West 139th Street",
+      "line2": "Basement",
+      "zip": 10037,
+      "other": "Betw Eighth & Edgecombe Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Monday Night Challenge",
+    "details": null,
+    "building": "St. James Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "409 West 141st Street",
+      "line2": "Basement",
+      "zip": 10031,
+      "other": "@ St. Nicholas Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Primary Purpose",
+    "details": null,
+    "building": "Riverside Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "91 Claremont Avenue",
+      "line2": "4th Floor",
+      "zip": 10027,
+      "other": "Betw. Broadway & Riverside Drive)",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Promises Two For One",
+    "details": "1st Sun-OD; 2nd Sun-S; 3rd Sun-Topic; 4th Sun-T; 5th Sun-OD",
+    "building": "Upper Manhattan Mental Health Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "1727 Amsterdam Avenue",
+      "line2": "1st Floor in the rear.",
+      "zip": 10031,
+      "other": "@ 145th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "9:30 AM",
+        "endTime": "10:30 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Reality Check",
+    "details": "S 4th Saturday Men's Meeting",
+    "building": "Our Lady of Lourdes Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "469 West 142nd Street",
+      "line2": "Basement",
+      "zip": 10037,
+      "other": "Betw Convent & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "od",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Riverside",
+    "details": "Non-Smoking Meeting.",
+    "building": "Riverside Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "91 Claremont Avenue",
+      "line2": "@ The Cloisters Club Room",
+      "zip": 10027,
+      "other": "1 Block West of Broadway & 1/2 Block North of 120th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Riverton",
+    "details": "S 2nd & T 4th Tue All meetings are non-smoking.  No children allowed at meetings.",
+    "building": "St. Aloysius School",
+    "wheelchair": false,
+    "address": {
+      "line1": "219 West 132nd Street",
+      "line2": "Cafeteria",
+      "zip": 10027,
+      "other": "Betw. Adam Clayton Powell Blvd. & F. Douglass Blvd.",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Salem",
+    "details": "O 2nd Wednesday",
+    "building": "Salem United Methodist Church Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "211 West 129th Street",
+      "line2": "Downstairs in the Gym",
+      "zip": 10027,
+      "other": "@ Adam Clayton Powell Blvd.",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Sober Adult Men",
+    "details": "Men's Meeting",
+    "building": "Convent Baptist Church Education Building",
+    "wheelchair": true,
+    "address": {
+      "line1": "425 West 144th Street",
+      "line2": "1st Floor",
+      "zip": 10031,
+      "other": "Betw. Convent Avenue & Hamilton Terrace",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "St. Nicholas",
+    "details": "S 2nd, C 3rd, BB 4th, & Grapevine 5th Thu.",
+    "building": "St. Phillip's Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "204 West 134th Street",
+      "line2": "Basement",
+      "zip": 10030,
+      "other": "Betw Adam C. Powell & Frederick Douglas Blvds",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "4:00 PM",
+        "endTime": "5:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Steps Three-Eleven",
+    "details": "B 1st, OD 2nd, S3 3rd, C Literature 4th, & S11 5th Sun.",
+    "building": "Harlem Hospital King Pavilion",
+    "wheelchair": true,
+    "address": {
+      "line1": "506 Lenox Avenue",
+      "line2": "Room #3101",
+      "zip": 10037,
+      "other": "@ 135 Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "2:00 PM",
+        "endTime": "3:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Sugar Hill",
+    "details": null,
+    "building": "Council Center for Problems of Living",
+    "wheelchair": true,
+    "address": {
+      "line1": "1727 Amsterdam Avenue",
+      "line2": "1st floor in the rear",
+      "zip": 10031,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "5:30 PM",
+        "endTime": "6:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Tuesday Big Book Study",
+    "details": null,
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "1854 Amsterdam Avenue",
+      "line2": "Basment",
+      "zip": 10031,
+      "other": "Corner of 152nd Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "Uptown Big Book Workshop",
+    "details": "Meeting meets each Saturday from mid-August thru mid-December",
+    "building": "Our Lady of Lourdes Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "469 West 142nd Street",
+      "line2": "Basement",
+      "zip": 10031,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:30 AM",
+        "endTime": "11:00 AM",
+        "type": "bb",
+        "specialInterest": "Big Book Workshop"
+      }
+    ],
+    "zone": "08"
+  },
+  {
+    "title": "You May Care After",
+    "details": "Non-Smoking Meeting.",
+    "building": "Metropolitan AME Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "58-66 West 135th Street",
+      "line2": null,
+      "zip": 10037,
+      "other": "Betw Malcolm X Boulevard & 5th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "08"
+  }
+]

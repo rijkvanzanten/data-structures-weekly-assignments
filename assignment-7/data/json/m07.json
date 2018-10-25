@@ -1,0 +1,1274 @@
+[
+  {
+    "title": "A Baffled Lot",
+    "details": "Topic Meeting",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "A.a. Traditions and History",
+    "details": "Traditions Meeting",
+    "building": "Manhattan Church of Christ",
+    "wheelchair": true,
+    "address": {
+      "line1": "48 East 80th Street",
+      "line2": "2nd Floor Library",
+      "zip": 10021,
+      "other": "Betw Park & Madison Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "t",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Active",
+    "details": null,
+    "building": "St. Jean Baptiste Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "184 East 76th Street",
+      "line2": "Basement",
+      "zip": 10021,
+      "other": "Betw Lexington & 3rd Avenues - Ring Bell",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Afternoon Awakening",
+    "details": "Mon=Living Sober, Thu=11 Step with meditation, Fri=3rd Step",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "2:30 PM",
+        "endTime": "3:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Atlantic Eleventh Step Meditation",
+    "details": null,
+    "building": "Church of the Epiphany",
+    "wheelchair": false,
+    "address": {
+      "line1": "1393 York Avenue",
+      "line2": null,
+      "zip": 10021,
+      "other": "@ 74th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:15 PM",
+        "endTime": "8:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Atlantic    (:I)",
+    "details": "Three speaker",
+    "building": "Christ United Methodist Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "520 Park Avenue",
+      "line2": null,
+      "zip": 10021,
+      "other": "@ 60th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Atlantic Group (:ii)",
+    "details": "",
+    "building": "Archdiocian Cathedral of the Holy Trinity",
+    "wheelchair": true,
+    "address": {
+      "line1": "337 E. 74th St.",
+      "line2": null,
+      "zip": 10021,
+      "other": "Between First and Second Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Atlantic Group (:iii)",
+    "details": "Two speaker",
+    "building": "All Souls Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "1157 Lexington Avenue",
+      "line2": null,
+      "zip": 10075,
+      "other": "between 79th and 80th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Breaking Through",
+    "details": "*Open Last Friday Check with front desk security for meeting room location.",
+    "building": "Gracie Square Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "420 East 76th Street",
+      "line2": null,
+      "zip": 10021,
+      "other": "Betw 1st & York Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Came To Believe",
+    "details": "Anniv. Last Sunday; every other month.",
+    "building": "Our Lady of Good Counsel Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "230 East 90th Street",
+      "line2": "Downstairs",
+      "zip": 10128,
+      "other": "Betw 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "3:30 PM",
+        "endTime": "4:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Carnegie Hill",
+    "details": null,
+    "building": "St. Thomas More Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "65 East 89th Street",
+      "line2": "Basement",
+      "zip": 10128,
+      "other": "@ Park & Madison Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Central I",
+    "details": null,
+    "building": "St. James Episcopal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "865 Madison Avenue",
+      "line2": "Basement",
+      "zip": 10021,
+      "other": "@ East 71st Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "5:45 PM",
+        "type": "o",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Chapter Five     (:I)",
+    "details": "Fri.6:15=Women's Meeting",
+    "building": "Immanuel Lutheran Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "1296 Lexington Avenue",
+      "line2": "Basement",
+      "zip": 10128,
+      "other": "Enter through red door on Lexington Avenue, Betw 87th & 88th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:15 AM",
+        "endTime": "8:15 AM",
+        "type": "bb",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Eleventh Step At Jan Hus",
+    "details": "11th Step Meditation Meeting.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "Mazaryk Room",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "9:00 AM",
+        "endTime": "10:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Fearless",
+    "details": "Topic Meeting",
+    "building": "All Souls Uniterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "1157 Lexington Avenue",
+      "line2": "1st Floor",
+      "zip": 10028,
+      "other": "@ East 80th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Friday Central",
+    "details": null,
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "Mazaryk Room",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Friday Night Gay Men & Women",
+    "details": "1st Step Gay & lesbian focus.  All are welcome.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Friday Night Men's Step",
+    "details": "Men's Meeting",
+    "building": "St. Thomas More Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "65 East 89th Street",
+      "line2": null,
+      "zip": 10128,
+      "other": "Betw Madison & Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "s",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Humanists Too",
+    "details": "Agnostic",
+    "building": "Church of Saint Thomas Moore",
+    "wheelchair": false,
+    "address": {
+      "line1": "65 East 89th Street - Rectory basement",
+      "line2": null,
+      "zip": 10128,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": null,
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "I'm All in",
+    "details": null,
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Into Action Manhattan",
+    "details": "lower level",
+    "building": "St. Francis de Sales Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "135 East 96th Street",
+      "line2": null,
+      "zip": 10128,
+      "other": "between Lexington and Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": "Big Book Workshop"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Kitchen Table Meeting",
+    "details": null,
+    "building": "Jan Hus Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Kitchen",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Lenox Hill",
+    "details": null,
+    "building": "Church of the Heavenly Rest",
+    "wheelchair": false,
+    "address": {
+      "line1": "2 East 90th Street",
+      "line2": null,
+      "zip": 10128,
+      "other": "Betw 5th & Madison Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Lex 80 Step",
+    "details": "Southside Chapel",
+    "building": "All Souls Uniterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "1157 Lexington Avenue",
+      "line2": null,
+      "zip": 10028,
+      "other": "Betw. 79th & 80th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": "Twelve Steps"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Live And Let Live",
+    "details": "Thurs=Topic Meeting, Check in with security at front desk. Gay & lesbian focus.  All are welcome.",
+    "building": "Gracie Square Hospital",
+    "wheelchair": true,
+    "address": {
+      "line1": "420 East 76th Street",
+      "line2": null,
+      "zip": 10021,
+      "other": "Betw. 1st & York  Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Madison 73",
+    "details": "All Meetings Are Non-Smoking.",
+    "building": "Jan Hus Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw.1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Meditation (Expect Miracles)",
+    "details": "All meetings are 11th Step Meditation format.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Chapel Room",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Men's Nyc Big Book Step Study",
+    "details": "Ring Bell for entry",
+    "building": "Philomathist Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "1285 Madison Avenue",
+      "line2": null,
+      "zip": 10128,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Metropolitan",
+    "details": "Tue.6:30=Literature Topic,Sat=Meets in the Rectory. Wheel Chair Access on Tuesday & Sunday Only",
+    "building": "St. Ignatius Loyola School",
+    "wheelchair": true,
+    "address": {
+      "line1": "48 East 84th Street",
+      "line2": null,
+      "zip": 10028,
+      "other": "Betw Madison & Park Avenues, On Saturday enter via Park Avenue Entrance",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "3:15 PM",
+        "endTime": "4:15 PM",
+        "type": "s",
+        "specialInterest": "First Step Workshop"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Monday East Topic",
+    "details": "Round Robin format & No Meeting on Legal Holidays.",
+    "building": "St. Stephen of Hungary Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "408 East 82nd Street",
+      "line2": "Rectory",
+      "zip": 10028,
+      "other": "Betw 1st & York Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Monday Women",
+    "details": "AA Literature Topic Meeting & Open last Monday. Women's Meeting",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Front Room",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:15 PM",
+        "endTime": "8:15 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Morning Reflections",
+    "details": "Daily Reflections readings & round robin format Discussion",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor - Front Room",
+      "zip": 10021,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "9:30 AM",
+        "endTime": "10:30 AM",
+        "type": "od",
+        "specialInterest": "Daily Reflections"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "New Choices",
+    "details": null,
+    "building": "Congregational Kehilath Jeshurun",
+    "wheelchair": true,
+    "address": {
+      "line1": "125 East 85th Street",
+      "line2": "Ramaz School Entrance",
+      "zip": 10028,
+      "other": "@ Lexington Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Open Book",
+    "details": "Big Book Study",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:15 PM",
+        "endTime": "8:15 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Our Primary Purpose",
+    "details": "Women's Meeting.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Kitchen",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:30 AM",
+        "endTime": "10:30 AM",
+        "type": "s",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Park Bench   (:ii)",
+    "details": null,
+    "building": "St. James Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "865 Madison Avenue",
+      "line2": "3rd Floor",
+      "zip": 10021,
+      "other": "Betw. 71st & 72nd Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Park Madison",
+    "details": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking.",
+    "building": "Brick Church Parish House",
+    "wheelchair": true,
+    "address": {
+      "line1": "62 East 92nd Street",
+      "line2": "Basement",
+      "zip": 10128,
+      "other": "Betw Madison & Park Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:45 PM",
+        "endTime": "7:45 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Perseverance",
+    "details": null,
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Front Room",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "11:00 AM",
+        "endTime": "12:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Recovery Room",
+    "details": null,
+    "building": "St. Joseph's School",
+    "wheelchair": false,
+    "address": {
+      "line1": "420 East 87th Street",
+      "line2": "Basement",
+      "zip": 10128,
+      "other": "Betw 1st & York Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Renewal East",
+    "details": null,
+    "building": "Central Presbyterian Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "593 Park Avenue",
+      "line2": "5th Floor Library",
+      "zip": 10128,
+      "other": "@ 64th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Renewal North",
+    "details": null,
+    "building": "St. Thomas More Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "65 East 89th Street",
+      "line2": "Ring Red Buzzer",
+      "zip": 10128,
+      "other": "Betw. Park & Madison Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Rhinelander",
+    "details": "Mon.6pm & Thu.6pm Meetings end @ 6:50pm.",
+    "building": "St. James Episcopal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "865 Madison Avenue",
+      "line2": "Basement",
+      "zip": 10021,
+      "other": "@ East 71st Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Roosevelt Island Serenity",
+    "details": null,
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "Church of the Good Shepard",
+      "line2": "543 Main St.",
+      "zip": null,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Seventy-Ninth Street Workshop    (:I)",
+    "details": "Sun.10am=11th S, Tue.6am=Came To Believe Thu.6am=Step & Trad.",
+    "building": "St. Monica's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "413 East 79th Street",
+      "line2": "Basement",
+      "zip": 10021,
+      "other": "Betw 1st & York Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:00 AM",
+        "endTime": "7:00 AM",
+        "type": "c",
+        "specialInterest": "Daily Reflections"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Sober Women",
+    "details": "Women's Meeting",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "Sanctuary",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "9:15 AM",
+        "endTime": "10:15 AM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Step By Step",
+    "details": "Non-Smoking Meeting.",
+    "building": "New York Blood Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "310 East 67th Street",
+      "line2": "Auditorium",
+      "zip": 10065,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Sunday On 70th",
+    "details": null,
+    "building": "Lenox Hill Neighborhood House",
+    "wheelchair": false,
+    "address": {
+      "line1": "331 E 70th St",
+      "line2": null,
+      "zip": 10021,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Sutton",
+    "details": "Enter through Parish House",
+    "building": "Church of St. Catherine of Siena",
+    "wheelchair": true,
+    "address": {
+      "line1": "411 East 68th Street",
+      "line2": null,
+      "zip": 10021,
+      "other": "Betw. York & 1st Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Three Twelves",
+    "details": null,
+    "building": "Church of the Heavenly Rest",
+    "wheelchair": false,
+    "address": {
+      "line1": "2 East 90th Street",
+      "line2": "Basement",
+      "zip": 10128,
+      "other": "Enter thru the Family Chapel on 5th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Trinity",
+    "details": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T",
+    "building": "Holy Trinity Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "341 East 87th Street",
+      "line2": "Choir Room (Ring Bell)",
+      "zip": 10128,
+      "other": "Btw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "We Humanists",
+    "details": "No prayers & a Non-Smoking Meeting.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Museum Room",
+      "zip": 10021,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Wednesday East",
+    "details": "Round Robin format",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor Kitchen",
+      "zip": 10021,
+      "other": "Betw. 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  },
+  {
+    "title": "Yorkville",
+    "details": "Non-Smoking Meeting.",
+    "building": "Jan Hus Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "351 East 74th Street",
+      "line2": "2nd Floor",
+      "zip": 10021,
+      "other": "Betw 1st & 2nd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "07"
+  }
+]

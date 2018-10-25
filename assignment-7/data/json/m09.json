@@ -1,0 +1,98 @@
+[
+  {
+    "title": "TWO FOR ONE",
+    "details": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
+    "building": "Harlem Children's Zone Admin. Offices",
+    "wheelchair": true,
+    "address": {
+      "line1": "35 East 125 Street",
+      "line2": "1st Floor Conference Room",
+      "zip": 10035,
+      "other": "@ Madison Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "4:15 PM",
+        "endTime": "5:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "09"
+  },
+  {
+    "title": "East Harlem",
+    "details": "Living Sober 1st Tuesday.",
+    "building": "Peter Jay Sharpe Building",
+    "wheelchair": true,
+    "address": {
+      "line1": "223 East 117th Street",
+      "line2": "1st Floor Dining Room",
+      "zip": 10035,
+      "other": "Betw. 2nd & 3rd Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "09"
+  },
+  {
+    "title": "Grupo Nueva Vida",
+    "details": "Spanish speaking meetings.",
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "2126 2nd Avenue",
+      "line2": "1st Floor",
+      "zip": 10029,
+      "other": "Betw. 109th & 110th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "09"
+  },
+  {
+    "title": "Harlem 1 PM Recovery",
+    "details": "ID REQUIRED TO ENTER BUILDING",
+    "building": "Veterans Residence",
+    "wheelchair": true,
+    "address": {
+      "line1": "22 East 119th Street",
+      "line2": "1st Floor Cafeteria",
+      "zip": 10035,
+      "other": "Betw. Madison & 5th Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "t",
+        "specialInterest": null
+      }
+    ],
+    "zone": "09"
+  }
+]

@@ -1,0 +1,1514 @@
+[
+  {
+    "title": "A New Day",
+    "details": "Mon=As Bill Sees It, Wed=Living Sober",
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Bway.",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "type": "c",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "A Vision For You",
+    "details": null,
+    "building": "Christ & St. Stephen's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "120 West 69th Street",
+      "line2": "Basement",
+      "zip": 10023,
+      "other": "Betw Columbus Avenue & Bway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:45 PM",
+        "endTime": "8:45 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "After Eight",
+    "details": "Tues= AA Literature/Topic meeting The group's focus is on long-term sobriety; but all A.A. members are welcome.",
+    "building": "Trinity Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "422 West 57th Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Betw 9th and 10th Ave",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "After Eight (:ii)",
+    "details": null,
+    "building": "Phoenix House",
+    "wheelchair": true,
+    "address": {
+      "line1": "164 West 74th Street",
+      "line2": "1st floor",
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": "Aa Literature"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Altered Attitudes",
+    "details": null,
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Little Room Basement",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Bway.",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "9:30 PM",
+        "endTime": "10:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Amsterdam",
+    "details": "T - Last Friday, Anniversary-Last Saturday.",
+    "building": "St. Gregory's Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "144 West 90th Street",
+      "line2": "Basement",
+      "zip": 10024,
+      "other": "Betw. Columbus & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "1:00 PM",
+        "endTime": "2:30 PM",
+        "type": "b",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Ansonia",
+    "details": "Anniv. Meeting last Monday.",
+    "building": "Hamilton House",
+    "wheelchair": true,
+    "address": {
+      "line1": "141 West 73rd Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Betw Columbus & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Atlantic West Step & Tradition",
+    "details": "Alternating Step and Tradition meeting.",
+    "building": "Fourth Universalist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "4 West 76th Street. Meeting in the gym.",
+      "line2": null,
+      "zip": 10023,
+      "other": "Between Central Park West & Columbus Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Bloomingdale",
+    "details": "All Meetings Are Non-Smoking. Anniversary meeting last Tues at 6:15",
+    "building": "Church of the Ascension",
+    "wheelchair": false,
+    "address": {
+      "line1": "221 West 107th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Bway ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Broadway At 96th",
+    "details": null,
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Btw. Amsterdam & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "bb",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Cadillacs For Everyone",
+    "details": "Men's Meeting",
+    "building": "Holy Trinity Rectory",
+    "wheelchair": true,
+    "address": {
+      "line1": "215 West 82nd Street",
+      "line2": null,
+      "zip": 10024,
+      "other": "Betw Amsterdam Avenue & Bway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Campus Cheer",
+    "details": null,
+    "building": "Broadway Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "601 West 114th Street",
+      "line2": "(2nd Red Door)",
+      "zip": 10025,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Central Park West",
+    "details": "T Last Thursday",
+    "building": "Universalist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "Central Park West & 76th Street - basement gymnasium",
+      "line2": null,
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "8:15 PM",
+        "endTime": "9:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Chelsea Riverside",
+    "details": "10:15pm = Topic Meeting",
+    "building": "West Side YMCA at 63rd Street",
+    "wheelchair": true,
+    "address": {
+      "line1": "5 West 63rd Street",
+      "line2": "Downstairs in large meeting room.",
+      "zip": 10023,
+      "other": "Betw. Central Park West & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 PM",
+        "endTime": "8:45 PM",
+        "type": "o",
+        "specialInterest": "Topic"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Chock Full of Sobriety",
+    "details": "S 1st & T Last Friday",
+    "building": "Universalist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "4 West 76th Street",
+      "line2": "(In the gym)",
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Classen Hall    (:II)",
+    "details": null,
+    "building": "Fourth Universalist Society",
+    "wheelchair": false,
+    "address": {
+      "line1": "160 Central Park West",
+      "line2": "Gym basement.",
+      "zip": 10023,
+      "other": "@ 76th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Classen Hall",
+    "details": "Enter basement level @ red door on left side of the building.",
+    "building": "Good Shepherd Faith Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "152 West 66th Street",
+      "line2": "Basement Level Chapel",
+      "zip": 10023,
+      "other": "Betw. Broadway & Amsterdam Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:15 PM",
+        "endTime": "7:45 PM",
+        "type": "s",
+        "specialInterest": "Twelve Steps"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Columbus At Five",
+    "details": "Children are welcome at all meetings. All meetings are non-smoking.",
+    "building": "Second Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "3 West 95th Street",
+      "line2": "Lower Level Auditorium",
+      "zip": 10025,
+      "other": "Betw Central Park West & Columbus Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "c",
+        "specialInterest": "Children Welcome"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Eightieth Street Beginners",
+    "details": null,
+    "building": "All Angels Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "251 West 80th Street",
+      "line2": null,
+      "zip": 10024,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:30 PM",
+        "endTime": "8:45 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Fast Break",
+    "details": null,
+    "building": "Hargrave House",
+    "wheelchair": false,
+    "address": {
+      "line1": "111 West 71st Street",
+      "line2": null,
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 AM",
+        "endTime": "8:00 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Fast Break Weekend",
+    "details": null,
+    "building": "West Side YMCA",
+    "wheelchair": true,
+    "address": {
+      "line1": "5 West 63rd Street",
+      "line2": "1st Floor",
+      "zip": 10023,
+      "other": "Betw CPW & Bway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "8:00 AM",
+        "endTime": "9:00 AM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Fireside  (:ii)  Weekend Meetings Only",
+    "details": "T 1st Saturday @ 12:30pm",
+    "building": "West Side YMCA",
+    "wheelchair": false,
+    "address": {
+      "line1": "5 West 63rd Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Betw Central Park West & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "s",
+        "specialInterest": "First Step Workshop"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "First Things First",
+    "details": "Last Sat. of month at 10:15 = anniversary meeting",
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:00 AM",
+        "endTime": "7:00 AM",
+        "type": "od",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Friday Night Step",
+    "details": "MEETING NOW TAKES PLACE YEAR ROUND! Up concrete steps, take stairs on left, 2nd Floor (Sandford Hall)",
+    "building": "Church of St. Matthew and St. Timothy",
+    "wheelchair": false,
+    "address": {
+      "line1": "26 West 84th Street",
+      "line2": null,
+      "zip": 10024,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Grupo Camino Real",
+    "details": "Spanish speaking meetings.",
+    "building": "Holy Name School",
+    "wheelchair": false,
+    "address": {
+      "line1": "200 West 97th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "@ Amsterdam Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "4:30 PM",
+        "endTime": "5:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Grupo Dulces 24",
+    "details": "B Last Friday Bilingual (English-Spanish) Meetings.",
+    "building": "Grace House",
+    "wheelchair": true,
+    "address": {
+      "line1": "218 West 108th Street",
+      "line2": "Main Floor",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Grupo Luz Divina",
+    "details": "Spanish speaking meeting.",
+    "building": "Iglesia Metodista Grace",
+    "wheelchair": true,
+    "address": {
+      "line1": "125 West 104th Street",
+      "line2": "1st Floor",
+      "zip": 10025,
+      "other": "Betw. Columbus & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Hargrave House",
+    "details": null,
+    "building": "Hamilton House",
+    "wheelchair": true,
+    "address": {
+      "line1": "141 West 73rd Street",
+      "line2": null,
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Lambda West",
+    "details": "Wed.6pm=Interpreted for the deaf and hard of hearing. Gay Men & Women Focus.  All are welcome.",
+    "building": "Rutgers Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "236 West 73rd Street",
+      "line2": "5th Floor",
+      "zip": 10023,
+      "other": "West of Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Manhattan Valley",
+    "details": null,
+    "building": "West End Presbyterian Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "165 West 105th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "@ Amsterdam Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Metropolis Men's Meeting",
+    "details": null,
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": null,
+      "zip": 10025,
+      "other": "Btwn. Amsterdam Avenue and Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "5:45 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Mid-Day Cheer",
+    "details": "Mon=11th Step Meditation, Fri= Alt.Step & Tradition Meeting",
+    "building": "Holy Name Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw Amsterdam & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "1:00 PM",
+        "endTime": "2:00 PM",
+        "type": "s",
+        "specialInterest": "Meditation"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Morningside",
+    "details": "All meetings are non-smoking.",
+    "building": "Advent Lutheran Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "2504 Broadway",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "@ 93rd Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Morningside Heights Beginners",
+    "details": null,
+    "building": "Church of Notre Dame",
+    "wheelchair": true,
+    "address": {
+      "line1": "405 West 114th Street",
+      "line2": "Merton Room",
+      "zip": 10025,
+      "other": "1 Block East of  Amsterdam Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Never Too Late",
+    "details": "All meetings are non-smoking.",
+    "building": "West End Collegiate Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "368 West End Ave",
+      "line2": "1st floor",
+      "zip": 10024,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:30 PM",
+        "endTime": "8:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Night Light",
+    "details": "T 1st Monday Non-Smoking Meeting.",
+    "building": "St. Michael's Parish House",
+    "wheelchair": false,
+    "address": {
+      "line1": "225 West 99th Street",
+      "line2": "1st Floor",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Night Light Beginners",
+    "details": "Non-Smoking Meeting.",
+    "building": "Anshe Chesed Synagogue",
+    "wheelchair": true,
+    "address": {
+      "line1": "251 West 100th Street",
+      "line2": null,
+      "zip": 10025,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Ninety-Sixth Street Workshop",
+    "details": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw Amsterdam & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:00 PM",
+        "endTime": "11:00 PM",
+        "type": "t",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Oxford",
+    "details": "Interpreted for the Deaf and Hard of Hearing No meetings on holidays On Ground Floor Mon. & Wed.; Basement on Thurs.",
+    "building": "Church of St. Matthew & St. Timothy",
+    "wheelchair": true,
+    "address": {
+      "line1": "26 West 84th Street",
+      "line2": null,
+      "zip": 10024,
+      "other": "Betw. Central Park West & Columbus Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "s",
+        "startTime": "12:00 AM",
+        "endTime": "12:00 AM",
+        "type": "c",
+        "specialInterest": "Interpreted for The Deaf"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Promises Promises",
+    "details": null,
+    "building": "West Side YMCA",
+    "wheelchair": false,
+    "address": {
+      "line1": "5 West 63rd Street",
+      "line2": "Basement",
+      "zip": 10023,
+      "other": "Betw. CPW & Bway ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Renewal West",
+    "details": "Anniv.  Last Sunday",
+    "building": "St. Ignatius Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "552 West End Avenue",
+      "line2": "Basement",
+      "zip": 10024,
+      "other": "Betw. Broadway & West End Avenue, Enter on 87th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Routes",
+    "details": null,
+    "building": "Phoenix House",
+    "wheelchair": false,
+    "address": {
+      "line1": "164 West 74 Street",
+      "line2": "1st Floor",
+      "zip": 10024,
+      "other": "Betw. Columbus and Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Rude Awakening",
+    "details": "Living Sober",
+    "building": "Volunteers of America",
+    "wheelchair": false,
+    "address": {
+      "line1": "340 West 85th Street",
+      "line2": "Basement",
+      "zip": 10024,
+      "other": "Betw. West End Avenue & Riverside Drive",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "8:30 PM",
+        "endTime": "9:30 PM",
+        "type": "c",
+        "specialInterest": "Living Sober"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Smithereens",
+    "details": "All Meetings Are Non-Smoking.",
+    "building": "West End Collegiate Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "368 West End Avenue",
+      "line2": "1st Floor",
+      "zip": 10024,
+      "other": "@ West 77th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Sober Stepping",
+    "details": "Alternates Betw.the Steps & Promises.",
+    "building": "Blessed Sacrament Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "152 West 71st Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Betw Columbus Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "s",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Sunday Men's Topic",
+    "details": "Men's Meeting",
+    "building": "West Side YMCA",
+    "wheelchair": false,
+    "address": {
+      "line1": "5 West 63rd Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Betw. Central Park West & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:30 AM",
+        "endTime": "11:30 AM",
+        "type": "c",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Sunday West",
+    "details": "Round Robin Topic Meeting.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "131 West 72nd Street",
+      "line2": "3rd Floor",
+      "zip": 10023,
+      "other": "Betw. Columbus & Amsterdam Avenues",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Turn It Over",
+    "details": "T Last Friday",
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw Amsterdam Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "3:30 PM",
+        "endTime": "4:30 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Way Of Life",
+    "details": "10am=As Bill Sees It, 11:15am=Topic Meeting",
+    "building": "Blessed Sacrament Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "152 West 71st Street",
+      "line2": "Ring Bell",
+      "zip": 10023,
+      "other": "Betw. Columbus Avenue & Broadway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "10:00 AM",
+        "endTime": "11:00 AM",
+        "type": "c",
+        "specialInterest": "As Bill Sees It"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "We Agnostics Of NYC",
+    "details": "S Last Thursday,  No Prayers.",
+    "building": "Stephen Wise Free Synagogue",
+    "wheelchair": true,
+    "address": {
+      "line1": "30 West 68th Street",
+      "line2": "Check security desk for Room #",
+      "zip": 10023,
+      "other": "Betw Central Park West & Columbus Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "We Are Not Doctors (westside)",
+    "details": "Issues of medication in recovery are discussed.  All are welcome.",
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "4:45 PM",
+        "endTime": "5:45 PM",
+        "type": "od",
+        "specialInterest": "Medication"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "West End",
+    "details": null,
+    "building": "Church of St. Paul & St. Andrew",
+    "wheelchair": true,
+    "address": {
+      "line1": "263 West 86th Street",
+      "line2": "1st Floor",
+      "zip": 10024,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Westside 11th Step Meditation Workshop",
+    "details": null,
+    "building": "Addiction Institute",
+    "wheelchair": false,
+    "address": {
+      "line1": "306 West 102nd Street",
+      "line2": "2nd Floor",
+      "zip": 10025,
+      "other": "Betw West End Avenue & Riverside Drive",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Westside Step",
+    "details": null,
+    "building": "Blessed Sacrament Church Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "152 West 71st Street",
+      "line2": null,
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Westside Young People",
+    "details": "Anniv. Meeting Last Saturday.",
+    "building": "Church of St.Matthew & St. Timothy",
+    "wheelchair": false,
+    "address": {
+      "line1": "26 West 84th Street",
+      "line2": "Stanford Room (blue door)",
+      "zip": 10024,
+      "other": "Betw. Columbus Avenue & Central Park West",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "b",
+        "specialInterest": "Young People"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Without A Prayer",
+    "details": null,
+    "building": "Goddard Riverside Community Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "595 Columbus Avenue",
+      "line2": null,
+      "zip": 10024,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "5:00 PM",
+        "endTime": "6:00 PM",
+        "type": "od",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women Living Sober",
+    "details": "S 2nd Wednesday",
+    "building": "Trinity Halfway House",
+    "wheelchair": false,
+    "address": {
+      "line1": "306 West 102nd Street",
+      "line2": "2nd Floor",
+      "zip": 10025,
+      "other": "Betw. Riverside Drive & West End Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "9:00 AM",
+        "endTime": "10:00 AM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women West AA",
+    "details": "Women's Meeting",
+    "building": "Holy Trinity Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "213 West 82nd Street",
+      "line2": null,
+      "zip": 10024,
+      "other": "Betw. Amsterdam Avenue & Bway",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women's Beginning Literature",
+    "details": "Wed= Alternate BB and Living Sober.",
+    "building": "Blessed Sacrament (Rectory)",
+    "wheelchair": false,
+    "address": {
+      "line1": "152 West 71st Street",
+      "line2": null,
+      "zip": 10023,
+      "other": "Between Broadway and Columbus Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women's Eleventh Step Meeting",
+    "details": null,
+    "building": null,
+    "wheelchair": true,
+    "address": {
+      "line1": "152 west 71st street",
+      "line2": null,
+      "zip": null,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "od",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women's Tell It Like It Is",
+    "details": "Women's Meeting",
+    "building": "Blessed Sacrament (Rectory)",
+    "wheelchair": true,
+    "address": {
+      "line1": "152 West 71st Street",
+      "line2": null,
+      "zip": 10023,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 PM",
+        "endTime": "1:15 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Women's Westside Topic",
+    "details": "Women's Meeting",
+    "building": "Universalist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "160 Central Park West",
+      "line2": "Downstairs",
+      "zip": 10023,
+      "other": "Enter through side door on 76th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "06"
+  },
+  {
+    "title": "Writing Sober",
+    "details": null,
+    "building": "Holy Name Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "207 West 96th Street",
+      "line2": "Basement",
+      "zip": 10025,
+      "other": "Betw. Amsterdam Avenue & Bway ",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": "Special Purpose Groups"
+      }
+    ],
+    "zone": "06"
+  }
+]

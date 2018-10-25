@@ -1,0 +1,698 @@
+[
+  {
+    "title": "AA On The Bowery",
+    "details": null,
+    "building": "University Settlement",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery",
+      "line2": "Downstairs",
+      "zip": 10002,
+      "other": "@ Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "After Five",
+    "details": null,
+    "building": "Manhattan Seventh-Day Adventist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": "Off 7th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Afternoon Delight",
+    "details": "Sex inventory 4th step literature meeting Meets 1st and 3rd Saturday of the month from noon-1",
+    "building": "Hazelden Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "283 West Broadway",
+      "line2": null,
+      "zip": 10013,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "12:00 PM",
+        "endTime": "1:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Artists in Recovery (a.r.t.)",
+    "details": null,
+    "building": "Seventh Day Adventist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "232 W. 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": "between Waverly and West 4th Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "b",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Bagels and Big Book",
+    "details": "NOTE: Meeting only meets on the 1st & 3rd Sunday of each month *Big Book Workshop, Meeting ends at Noon.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "220 West Houston Street",
+      "line2": "2nd Floor",
+      "zip": 10014,
+      "other": "Betw. 6th Avenue & Varick Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "10:30 AM",
+        "endTime": "12:00 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Center Meeting",
+    "details": "No shoes worn in meeting location. A short meditation opens the meeting.",
+    "building": "Golden Bridge Yoga Center",
+    "wheelchair": false,
+    "address": {
+      "line1": "253 Center Street",
+      "line2": "3rd Floor",
+      "zip": 10013,
+      "other": "@ Broome Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "5:15 PM",
+        "endTime": "6:15 PM",
+        "type": "od",
+        "specialInterest": "Meditation at Meeting"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Sober Agnostics",
+    "details": "Ask front desk for meeting location",
+    "building": "University Settlement (The Chinatown YMCA)",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery",
+      "line2": null,
+      "zip": 10002,
+      "other": "@ Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:45 PM",
+        "endTime": "8:00 PM",
+        "type": "od",
+        "specialInterest": "Agnostic"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Greenwich Village",
+    "details": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome.",
+    "building": "St. Luke's Episcopal School",
+    "wheelchair": false,
+    "address": {
+      "line1": "487 Hudson Street",
+      "line2": "Basement",
+      "zip": 10014,
+      "other": "South of Christopher Street - behind church",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:15 PM",
+        "endTime": "8:15 PM",
+        "type": "b",
+        "specialInterest": "Steps 1 2 3"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Grupo Central",
+    "details": "Spanish speaking meetings.",
+    "building": "St. Augustine's Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "292 Henry Street",
+      "line2": "Basement",
+      "zip": 10002,
+      "other": "A la isquierda de la iglesia",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "3:00 PM",
+        "endTime": "4:00 PM",
+        "type": "o",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Happy, Joyous and Free",
+    "details": "Topic Meeting for gay men approaching and over 40. All are welcome.",
+    "building": "Manhattan Church of The Seventh-day Adventist",
+    "wheelchair": true,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "s",
+        "startTime": "12:00 AM",
+        "endTime": "12:00 AM",
+        "type": "c",
+        "specialInterest": "Gay Men"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Lower East Side",
+    "details": null,
+    "building": "Church of Saint Theresa Rectory",
+    "wheelchair": false,
+    "address": {
+      "line1": "141 Henry Street",
+      "line2": "1st Floor",
+      "zip": 10002,
+      "other": "Betw Henry & Rutgers Streets",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Midnite",
+    "details": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "220 West Houston Street",
+      "line2": "2nd Floor",
+      "zip": 10014,
+      "other": "Betw 6th Avenue & Varick Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "12:00 AM",
+        "endTime": "1:15 AM",
+        "type": "s",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "New Group",
+    "details": "Gay & Lesbian focus.  All are welcome.",
+    "building": "St. John's Lutheran Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "83 Christopher Street (Red Door",
+      "line2": "Left of Church)",
+      "zip": 10014,
+      "other": "West of 7th Avenue, Enter Left, Red Door, Ring Buzzer",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "12:30 PM",
+        "endTime": "1:30 PM",
+        "type": "o",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Perry Street Workshop     (:I)",
+    "details": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "50 Perry Street",
+      "line2": "Ground Floor",
+      "zip": 10014,
+      "other": "Betw. 7th Avenue South & West 4th Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Primetime Nyc (i)",
+    "details": null,
+    "building": "Seventh Day Adventist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "od",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Red Door",
+    "details": "Fri.7:00pm=Promises Meeting All meetings are Gay & Lesbian focused.  All are welcome.",
+    "building": "St. John's Episcopal Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "224 Waverly Place",
+      "line2": "1st floor event room.",
+      "zip": 10014,
+      "other": "@ 11th Street & 7th Avenue South",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Room For Improvement",
+    "details": "Wed.=Topic, Thu.=Promises & Fri.=T Last Fri.",
+    "building": "St. Anthony's of Padua",
+    "wheelchair": false,
+    "address": {
+      "line1": "154 Sullivan Street",
+      "line2": null,
+      "zip": 10012,
+      "other": "Enter on Sullivan Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": "bb",
+        "specialInterest": "Promises"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Room for Improvement     (:ii)",
+    "details": null,
+    "building": "Chinatown YMCA",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery Street",
+      "line2": null,
+      "zip": 10012,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "7:30 AM",
+        "endTime": "8:30 AM",
+        "type": null,
+        "specialInterest": "Topic"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Sheridan Square Follies",
+    "details": "Gay & Lesbian Focus.  All are welcome.",
+    "building": "St. Joseph's Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "371 6th Avenue",
+      "line2": "Basement",
+      "zip": 10014,
+      "other": "@ Corner of 6th Avenue & Washington Place",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "6:00 PM",
+        "endTime": "7:00 PM",
+        "type": "b",
+        "specialInterest": "Gay, Lesbian and Bisexual"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Soho    (:i)",
+    "details": "Mon.7pm=Anniv Last Mon., Fri.6:30pm=Interpreted for Deaf and Hard of Hearing. Friday Meeting occasionally changes the location;  please call New York Inter-Group to confirm meeting location.",
+    "building": "St. Anthony of Padua Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "155 Sullivan Street",
+      "line2": "Basement",
+      "zip": 10012,
+      "other": "@ Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": "b",
+        "specialInterest": "Interpreted for The Deaf"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Spiritual Workshop",
+    "details": "Lower level",
+    "building": "The Bronfman Cernter @ NYU",
+    "wheelchair": false,
+    "address": {
+      "line1": "7 East 10th Strert",
+      "line2": null,
+      "zip": 10003,
+      "other": "@ Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sun",
+        "startTime": "11:00 AM",
+        "endTime": "12:15 PM",
+        "type": "c",
+        "specialInterest": "Eleventh Step"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "T&a Togetherness & Action",
+    "details": "Literature",
+    "building": "Seventh Adventist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": "Basement",
+      "zip": null,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "mon",
+        "startTime": "6:30 PM",
+        "endTime": "7:30 PM",
+        "type": null,
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Ten Plus",
+    "details": "The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only",
+    "building": "St. John's Lutheran Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "81 Christopher Street",
+      "line2": null,
+      "zip": 10014,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "8:00 PM",
+        "endTime": "9:00 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "The Captain's Table",
+    "details": "Men's Meeting",
+    "building": "University Settlement (The Chinatown YMCA)",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery",
+      "line2": "Downstairs",
+      "zip": 10002,
+      "other": "@ Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "7:00 PM",
+        "endTime": "8:00 PM",
+        "type": "bb",
+        "specialInterest": "Men"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Together We Can",
+    "details": null,
+    "building": "Manhattan Seventh-Day Adventist Church",
+    "wheelchair": false,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": "Just off of 7th avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "tue",
+        "startTime": "6:45 PM",
+        "endTime": "8:00 PM",
+        "type": "s",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Wednesday Focus",
+    "details": null,
+    "building": "Manhattan Church of The Seventh-day Adventist",
+    "wheelchair": true,
+    "address": {
+      "line1": "232 West 11th Street",
+      "line2": null,
+      "zip": 10014,
+      "other": null,
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "wed",
+        "startTime": "6:15 PM",
+        "endTime": "7:15 PM",
+        "type": "c",
+        "specialInterest": null
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "West Village Women",
+    "details": "Focus women 5+ years of sobriety. All are welcome. Enter through Red Door left of church, Buzzer-Meeting Room",
+    "building": "St. John's Lutheran Church",
+    "wheelchair": true,
+    "address": {
+      "line1": "83 Christopher Street",
+      "line2": "Basement",
+      "zip": 10014,
+      "other": "Betw. Bleeker & 7th Avenue",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "thu",
+        "startTime": "6:30 PM",
+        "endTime": "7:45 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Women Straight Ahead Saturday",
+    "details": "Women's Meeting",
+    "building": null,
+    "wheelchair": false,
+    "address": {
+      "line1": "220 West Houston Street",
+      "line2": "2nd Floor",
+      "zip": 10014,
+      "other": "Betw. 6th Avenue & Varick Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "sat",
+        "startTime": "4:45 PM",
+        "endTime": "5:45 PM",
+        "type": "c",
+        "specialInterest": "Women"
+      }
+    ],
+    "zone": "02"
+  },
+  {
+    "title": "Women Together    (:II)",
+    "details": "*Women's Meeting Lesbian focus.  All are welcome.",
+    "building": "University Settlement @ Houston Street Center",
+    "wheelchair": true,
+    "address": {
+      "line1": "273 Bowery",
+      "line2": "Classroom Floor",
+      "zip": 10002,
+      "other": "@ The corner of Houston Street",
+      "city": "New York City",
+      "state": "NY"
+    },
+    "hours": [
+      {
+        "day": "fri",
+        "startTime": "6:15 PM",
+        "endTime": "7:30 PM",
+        "type": "c",
+        "specialInterest": "Lesbian"
+      }
+    ],
+    "zone": "02"
+  }
+]
