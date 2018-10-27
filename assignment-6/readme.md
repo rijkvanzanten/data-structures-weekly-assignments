@@ -27,3 +27,16 @@ SELECT meetings.title, meeting_hours.day FROM meeting_hours LEFT JOIN meetings O
 ```
 
 ## Part Two: Write and execute a query for your Dear Diary data DynamoDB
+
+This will fetch all records between the two given dates, which would be used to fetch all entries from last week.
+
+```js
+var params = {
+    TableName : "dear-diary",
+    KeyConditionExpression: "datetime between :minDate and :maxDate",
+    ExpressionAttributeValues: {
+        ":maxDate": {N: new Date("September 1, 2018").valueOf().toString()}, // today
+        ":minDate": {N: new Date(new Date().setDate(new Date().getDate() - 7)).valueOf().toString()} // today - 7 days
+    }
+};
+```
