@@ -1,0 +1,17 @@
+{
+  "name": "assignment-9",
+  "version": "1.0.0",
+  "description": "> You will begin writing sensor data to a database.",
+  "main": "setup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0",
+    "pg": "^7.6.1"
+  }
+}
